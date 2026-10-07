@@ -95,25 +95,32 @@
 
     <!-- EXAMEN -->
     <section id="examSection" class="app-section card hidden">
-      <div class="exam-header">
-        <h2 id="examCounter">Pregunta 1 de 100</h2>
-        <div id="examTimer" class="timer">00:00</div>
-      </div>
+  <div class="exam-header">
+    <h2 id="examCounter">Pregunta 1 de 100</h2>
+    <div id="examTimer" class="timer">00:00</div>
+  </div>
 
-      <div id="questionStem" class="question-stem"></div>
-      <div id="optionsContainer" class="options-container"></div>
+  <div id="questionStem" class="question-stem"></div>
+  <div id="optionsContainer" class="options-container"></div>
 
-      <div class="exam-navigation">
-        <button id="btnPrev" class="btn">Regresar</button>
-        <button id="btnNext" class="btn">Avanzar</button>
-        <button id="btnFinalize" class="btn danger">Finalizar examen</button>
-      </div>
+  <!-- NUEVO: feedback inmediato por pregunta -->
+  <div id="examFeedback" class="exam-feedback hidden">
+    <div id="examFeedbackStatus" class="feedback-status"></div>
+    <div id="examFeedbackCorrect" class="feedback-correct"></div>
+    <div id="examFeedbackExplanation" class="feedback-explanation"></div>
+  </div>
 
-      <div class="nav-panel-wrap">
-        <h3>Navegación rápida</h3>
-        <div id="navPanel" class="nav-panel"></div>
-      </div>
-    </section>
+  <div class="exam-navigation">
+    <button id="btnPrev" class="btn">Regresar</button>
+    <button id="btnNext" class="btn">Avanzar</button>
+    <button id="btnFinalize" class="btn danger">Finalizar examen</button>
+  </div>
+
+  <div class="nav-panel-wrap">
+    <h3>Navegación rápida</h3>
+    <div id="navPanel" class="nav-panel"></div>
+  </div>
+</section>
 
     <!-- RESULTADOS -->
     <section id="resultsSection" class="app-section card hidden">

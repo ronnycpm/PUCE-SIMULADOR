@@ -568,7 +568,7 @@
     }, 1000);
   }
 
-  function renderExamQuestion() {
+    function renderExamQuestion() {
     if (!App.exam) return;
 
     const q = App.exam.questions[App.exam.index];
@@ -580,19 +580,28 @@
     const stem = $("questionStem");
     if (stem) stem.textContent = q.stem;
 
+    // Ocultar feedback al cambiar de pregunta
+    const feedback = $("examFeedback");
+    if (feedback) {
+      feedback.classList.add("hidden");
+      feedback.classList.remove("correct", "incorrect");
+    }
+
     const selectedId = App.exam.answers[q.id] || null;
+    const alreadyAnswered = !!selectedId;
 
     const optionsContainer = $("optionsContainer");
     if (optionsContainer) {
       optionsContainer.innerHTML = q.options
         .map(
           (o) => `
-            <label class="option">
+            <label class="option ${alreadyAnswered ? "disabled" : ""}">
               <input
                 type="radio"
                 name="examOption"
                 value="${esc(o.displayId)}"
                 ${selectedId === o.displayId ? "checked" : ""}
+                ${alreadyAnswered ? "disabled" : ""}
               />
               <span><strong>${esc(o.displayLabel)}.</strong> ${esc(o.text)}</span>
             </label>
@@ -602,19 +611,75 @@
 
       document.querySelectorAll('input[name="examOption"]').forEach((input) => {
         input.addEventListener("change", (e) => {
+          if (alreadyAnswered) return;
           App.exam.answers[q.id] = e.target.value;
-          updateNavPanel();
+          evaluateCurrentQuestion(q);
         });
       });
     }
 
     const btnPrev = $("btnPrev");
     const btnNext = $("btnNext");
-
     if (btnPrev) btnPrev.disabled = App.exam.index === 0;
     if (btnNext) btnNext.disabled = App.exam.index === total - 1;
+  function evaluateCurrentQuestion(q) {
+    const selectedId = App.exam.answers[q.id];
+    const selected = q.options.find((o) => o.displayId === selectedId) || null;
+    const correctOption = q.options.find((o) => o.isCorrect);
 
+    // Marcar visualmente las opciones
+    document.querySelectorAll("#optionsContainer .option").forEach((label) => {
+      const input = label.querySelector("input");
+      const opt = q.options.find((o) => o.displayId === input.value);
+      if (!opt) return;
+
+      input.disabled = true;
+      label.classList.add("disabled");
+
+      if (opt.isCorrect) {
+        label.classList.add("answered-correct");
+      } else if (input.checked) {
+        label.classList.add("answered-incorrect");
+      }
+    });
+
+    showQuestionFeedback(q);
+    updateNavPanel();
+  }
+
+  function showQuestionFeedback(q) {
+    const selectedId = App.exam.answers[q.id];
+    const selected = q.options.find((o) => o.displayId === selectedId) || null;
+    const correctOption = q.options.find((o) => o.isCorrect);
+
+    const feedback = $("examFeedback");
+    const status = $("examFeedbackStatus");
+    const correctEl = $("examFeedbackCorrect");
+    const explanation = $("examFeedbackExplanation");
+
+    if (!feedback || !status || !correctEl || !explanation) return;
+
+    const isCorrect = !!(selected && selected.isCorrect);
+
+    feedback.classList.remove("hidden", "correct", "incorrect");
+    feedback.classList.add(isCorrect ? "correct" : "incorrect");
+
+    status.className = "feedback-status " + (isCorrect ? "ok" : "fail");
+    status.textContent = isCorrect ? "✅ CORRECTA" : "❌ INCORRECTA";
+
+    correctEl.innerHTML = `<strong>Respuesta correcta:</strong> ${esc(correctOption ? correctOption.text : "No disponible")}`;
+
+    const expText = q.explanation && q.explanation.trim()
+      ? q.explanation
+      : "El banco no proporciona una explicación para esta pregunta.";
+    explanation.innerHTML = `<strong>Explicación:</strong> ${esc(expText)}`;
+  }
     renderNavPanel();
+
+    // Si ya fue contestada, mostrar feedback al volver
+    if (alreadyAnswered) {
+      showQuestionFeedback(q);
+    }
   }
 
   function renderNavPanel() {
