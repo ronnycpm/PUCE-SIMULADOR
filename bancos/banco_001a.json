@@ -1,1 +1,912 @@
-
+{
+  "app": "Simulador Méritos y Oposición PUCE",
+  "type": "question-batch",
+  "batch": "001",
+  "batchLabel": "preguntas-001-050",
+  "createdAt": "2026-10-07T00:00:00.000Z",
+  "source": "BANCO DE PREGUNTAS RECOPILADAS DE MERITOS Y OPOSICION PUCE.pdf",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "pdf_q1",
+      "number": 1,
+      "stem": "Cual de los siguientes hallazgos caracteriza a la insuficiencia cardiaca con fraccion de eyeacion preservada?",
+      "options": [
+        { "originalLabel": "A", "text": "Fraccion de eyeacion menor al 40 por ciento", "isCorrect": false },
+        { "originalLabel": "B", "text": "Disfuncion diastolica con fraccion de eyeacion conservada", "isCorrect": true },
+        { "originalLabel": "C", "text": "Respuesta exagerada a digitoxicos", "isCorrect": false },
+        { "originalLabel": "D", "text": "Ausencia de congestion pulmonar", "isCorrect": false },
+        { "originalLabel": "E", "text": "Disminucion del grosor parietal", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Disfuncion diastolica con fraccion de eyeacion conservada",
+      "explanation": "La ICFEP se caracteriza por disfuncion diastolica con fraccion de eyeacion preservada o casi preservada.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q2",
+      "number": 2,
+      "stem": "El farmaco de primera eleccion para el tratamiento de la insuficiencia cardiaca con fraccion de eyeacion reducida incluye:",
+      "options": [
+        { "originalLabel": "A", "text": "Amlodipino", "isCorrect": false },
+        { "originalLabel": "B", "text": "IECA o ARNI mas betabloqueante mas antagonista mineralocorticoide mas inhibidor SGLT2", "isCorrect": true },
+        { "originalLabel": "C", "text": "Digoxina aislada", "isCorrect": false },
+        { "originalLabel": "D", "text": "Hidralazina aislada", "isCorrect": false },
+        { "originalLabel": "E", "text": "Nitrato aislado", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "IECA o ARNI mas betabloqueante mas antagonista mineralocorticoide mas inhibidor SGLT2",
+      "explanation": "El tratamiento basico de la ICFER se sustenta en los cuatro pilares farmacologicos.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q3",
+      "number": 3,
+      "stem": "Cual es el mecanismo de accion principal de la digoxina en la insuficiencia cardiaca?",
+      "options": [
+        { "originalLabel": "A", "text": "Bloqueo beta adrenergico", "isCorrect": false },
+        { "originalLabel": "B", "text": "Inhibicion de la Na/K ATPasa con aumento del calcio intracelular", "isCorrect": true },
+        { "originalLabel": "C", "text": "Vasodilatacion arteriolar pura", "isCorrect": false },
+        { "originalLabel": "D", "text": "Diuresis de asa potente", "isCorrect": false },
+        { "originalLabel": "E", "text": "Inhibicion de la renina", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Inhibicion de la Na/K ATPasa con aumento del calcio intracelular",
+      "explanation": "La digoxina inhibe la bomba Na/K ATPasa, incrementa el sodio intracelular y secundariamente el calcio, mejorando la contractilidad.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q4",
+      "number": 4,
+      "stem": "En la fibrilacion auricular, el objetivo principal del control de frecuencia es:",
+      "options": [
+        { "originalLabel": "A", "text": "Restaurar el ritmo sinusal de inmediato", "isCorrect": false },
+        { "originalLabel": "B", "text": "Reducir la frecuencia ventricular para mejorar el llenado diastolico", "isCorrect": true },
+        { "originalLabel": "C", "text": "Aumentar el gasto cardiaco mediante taquicardia", "isCorrect": false },
+        { "originalLabel": "D", "text": "Provocar bloqueos auriculoventriculares completos", "isCorrect": false },
+        { "originalLabel": "E", "text": "Eliminar la necesidad de anticoagulacion", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Reducir la frecuencia ventricular para mejorar el llenado diastolico",
+      "explanation": "El control de frecuencia busca reducir la velocidad ventricular para optimizar el llenado y la funcion cardiaca.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q5",
+      "number": 5,
+      "stem": "Cual de los siguientes anticoagulantes se considera de accion directa?",
+      "options": [
+        { "originalLabel": "A", "text": "Warfarina", "isCorrect": false },
+        { "originalLabel": "B", "text": "Apixaban", "isCorrect": true },
+        { "originalLabel": "C", "text": "Acenocumarol", "isCorrect": false },
+        { "originalLabel": "D", "text": "Heparina no fraccionada", "isCorrect": false },
+        { "originalLabel": "E", "text": "Heparina de bajo peso molecular", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Apixaban",
+      "explanation": "Los anticoagulantes orales directos incluyen inhibidores del factor Xa como apixaban y rivaroxaban, y inhibidores de la trombina como dabigatrano.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q6",
+      "number": 6,
+      "stem": "La triada de Virchow explica la trombogénesis e incluye:",
+      "options": [
+        { "originalLabel": "A", "text": "Hipertension, hiperlipidemia e hiperglucemia", "isCorrect": false },
+        { "originalLabel": "B", "text": "Estasis venosa, lesion endotelial e hipercoagulabilidad", "isCorrect": true },
+        { "originalLabel": "C", "text": "Taquicardia, bradicardia y arritmia", "isCorrect": false },
+        { "originalLabel": "D", "text": "Fiebre, dolor y disnea", "isCorrect": false },
+        { "originalLabel": "E", "text": "Anemia, leucocitosis y trombocitopenia", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Estasis venosa, lesion endotelial e hipercoagulabilidad",
+      "explanation": "La triada de Virchow comprende estasis, daño endotelial y estado de hipercoagulabilidad.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q7",
+      "number": 7,
+      "stem": "Cual de los siguientes factores desplaza hacia la derecha la curva de disociacion de la oxihemoglobina?",
+      "options": [
+        { "originalLabel": "A", "text": "Disminucion de la temperatura", "isCorrect": false },
+        { "originalLabel": "B", "text": "Alcalosis", "isCorrect": false },
+        { "originalLabel": "C", "text": "Disminucion del 2,3 DPG", "isCorrect": false },
+        { "originalLabel": "D", "text": "Aumento de la temperatura", "isCorrect": true },
+        { "originalLabel": "E", "text": "Disminucion de la PaCO2", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "D",
+      "officialAnswerText": "Aumento de la temperatura",
+      "explanation": "Acidosis, hipercapnia, aumento de temperatura y aumento del 2,3 DPG desplazan la curva hacia la derecha y facilitan la liberacion de oxigeno a los tejidos.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q8",
+      "number": 8,
+      "stem": "Segun la ley de Frank-Starling, un aumento de la precarga produce:",
+      "options": [
+        { "originalLabel": "A", "text": "Disminucion de la fuerza de contraccion", "isCorrect": false },
+        { "originalLabel": "B", "text": "Aumento de la fuerza de contraccion y del volumen sistolico", "isCorrect": true },
+        { "originalLabel": "C", "text": "Reduccion de la poscarga", "isCorrect": false },
+        { "originalLabel": "D", "text": "Disminucion de la frecuencia cardiaca", "isCorrect": false },
+        { "originalLabel": "E", "text": "Ausencia de cambio en el gasto cardiaco", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Aumento de la fuerza de contraccion y del volumen sistolico",
+      "explanation": "La ley de Frank-Starling establece que mayor estiramiento de las fibras musculares produce una contraccion mas vigorosa.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q9",
+      "number": 9,
+      "stem": "Cual de los siguientes serotipos de virus del papiloma humano se asocia con mayor riesgo de cancer de cuello uterino?",
+      "options": [
+        { "originalLabel": "A", "text": "6 y 11", "isCorrect": false },
+        { "originalLabel": "B", "text": "16 y 18", "isCorrect": true },
+        { "originalLabel": "C", "text": "42 y 43", "isCorrect": false },
+        { "originalLabel": "D", "text": "44 y 45", "isCorrect": false },
+        { "originalLabel": "E", "text": "61 y 72", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "16 y 18",
+      "explanation": "Los serotipos 16 y 18 son los de alto riesgo oncogenico mas frecuentes en cancer de cuello uterino.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q10",
+      "number": 10,
+      "stem": "El metodo de referencia para el diagnostico de cancer de cuello uterino es:",
+      "options": [
+        { "originalLabel": "A", "text": "Citologia vaginal aislada", "isCorrect": false },
+        { "originalLabel": "B", "text": "Biopsia dirigida por colposcopia", "isCorrect": true },
+        { "originalLabel": "C", "text": "Tomografia abdominal", "isCorrect": false },
+        { "originalLabel": "D", "text": "Resonancia pelviana", "isCorrect": false },
+        { "originalLabel": "E", "text": "Antigeno 125", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Biopsia dirigida por colposcopia",
+      "explanation": "El diagnostico definitivo requiere confirmacion histologica mediante biopsia.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q11",
+      "number": 11,
+      "stem": "El farmaco de primera linea para prevenir convulsiones en la preeclampsia con severidad es:",
+      "options": [
+        { "originalLabel": "A", "text": "Diazepam", "isCorrect": false },
+        { "originalLabel": "B", "text": "Sulfato de magnesio", "isCorrect": true },
+        { "originalLabel": "C", "text": "Fenitoina", "isCorrect": false },
+        { "originalLabel": "D", "text": "Levetiracetam", "isCorrect": false },
+        { "originalLabel": "E", "text": "Acido valproico", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Sulfato de magnesio",
+      "explanation": "El sulfato de magnesio es el anticonvulsivante de eleccion en preeclampsia con severidad y eclampsia.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q12",
+      "number": 12,
+      "stem": "Cual es el criterio diagnostico de preeclampsia con severidad?",
+      "options": [
+        { "originalLabel": "A", "text": "Presion arterial de 140/90 mmHg", "isCorrect": false },
+        { "originalLabel": "B", "text": "Presion arterial igual o mayor a 160/110 mmHg o datos de afectacion de organo blanco", "isCorrect": true },
+        { "originalLabel": "C", "text": "Edema leve de miembros inferiores", "isCorrect": false },
+        { "originalLabel": "D", "text": "Proteinuria de 300 mg en 24 horas", "isCorrect": false },
+        { "originalLabel": "E", "text": "Cefalea ocasional sin otros datos", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Presion arterial igual o mayor a 160/110 mmHg o datos de afectacion de organo blanco",
+      "explanation": "La severidad se define por cifras tensionales muy elevadas o por afectacion de organo blanco.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q13",
+      "number": 13,
+      "stem": "El periodo de gestacion en el que se realiza habitualmente el tamizaje de translucencia nucal es:",
+      "options": [
+        { "originalLabel": "A", "text": "Semana 6 a 8", "isCorrect": false },
+        { "originalLabel": "B", "text": "Semana 11 a 13 con 6 dias", "isCorrect": true },
+        { "originalLabel": "C", "text": "Semana 18 a 20", "isCorrect": false },
+        { "originalLabel": "D", "text": "Semana 24 a 28", "isCorrect": false },
+        { "originalLabel": "E", "text": "Semana 32 a 34", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Semana 11 a 13 con 6 dias",
+      "explanation": "La translucencia nucal se mide entre las semanas 11 y 13 con 6 dias de gestacion.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q14",
+      "number": 14,
+      "stem": "Cual de las siguientes es una causa frecuente de hemorragia del primer trimestre?",
+      "options": [
+        { "originalLabel": "A", "text": "Preeclampsia", "isCorrect": false },
+        { "originalLabel": "B", "text": "Aborto espontaneo", "isCorrect": true },
+        { "originalLabel": "C", "text": "Rotura uterina", "isCorrect": false },
+        { "originalLabel": "D", "text": "Placenta previa", "isCorrect": false },
+        { "originalLabel": "E", "text": "Desprendimiento de placenta", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Aborto espontaneo",
+      "explanation": "El aborto espontaneo es una de las causas mas frecuentes de sangrado en el primer trimestre.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q15",
+      "number": 15,
+      "stem": "La placenta previa se define como la implantacion de la placenta:",
+      "options": [
+        { "originalLabel": "A", "text": "En el fondo uterino", "isCorrect": false },
+        { "originalLabel": "B", "text": "Que cubre total o parcialmente el orificio cervical interno", "isCorrect": true },
+        { "originalLabel": "C", "text": "En la cara posterior exclusivamente", "isCorrect": false },
+        { "originalLabel": "D", "text": "Con invasion del miometrio", "isCorrect": false },
+        { "originalLabel": "E", "text": "Fuera del utero", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Que cubre total o parcialmente el orificio cervical interno",
+      "explanation": "La placenta previa es la implantacion que alcanza el orificio cervical interno.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q16",
+      "number": 16,
+      "stem": "Un paciente presenta pH 7.25, PaCO2 25 mmHg y HCO3 11 mEq/L. Cual es el trastorno acido-base?",
+      "options": [
+        { "originalLabel": "A", "text": "Alcalosis metabolica", "isCorrect": false },
+        { "originalLabel": "B", "text": "Acidosis respiratoria", "isCorrect": false },
+        { "originalLabel": "C", "text": "Acidosis metabolica", "isCorrect": true },
+        { "originalLabel": "D", "text": "Alcalosis respiratoria", "isCorrect": false },
+        { "originalLabel": "E", "text": "Acidosis mixta", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "C",
+      "officialAnswerText": "Acidosis metabolica",
+      "explanation": "El pH bajo indica acidemia; la HCO3 baja y la PaCO2 baja compensatoria confirman acidosis metabolica.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q17",
+      "number": 17,
+      "stem": "Un paciente con sodio 140, cloro 100 y bicarbonato 12. Cual es el anion gap?",
+      "options": [
+        { "originalLabel": "A", "text": "12 mEq/L", "isCorrect": false },
+        { "originalLabel": "B", "text": "18 mEq/L", "isCorrect": false },
+        { "originalLabel": "C", "text": "28 mEq/L", "isCorrect": true },
+        { "originalLabel": "D", "text": "38 mEq/L", "isCorrect": false },
+        { "originalLabel": "E", "text": "2 mEq/L", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "C",
+      "officialAnswerText": "28 mEq/L",
+      "explanation": "Anion gap = sodio - (cloro + bicarbonato) = 140 - (100 + 12) = 28.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q18",
+      "number": 18,
+      "stem": "Un paciente con cetoacidosis diabetica presenta glucosa elevada, cetonemia y potasio serico de 5.4 mEq/L. Cual afirmacion es correcta?",
+      "options": [
+        { "originalLabel": "A", "text": "El contenido corporal total de potasio esta necesariamente aumentado", "isCorrect": false },
+        { "originalLabel": "B", "text": "Existe habitualmente deficit corporal total de potasio aunque inicialmente el potasio serico pueda estar elevado", "isCorrect": true },
+        { "originalLabel": "C", "text": "Nunca debe administrarse potasio durante el tratamiento", "isCorrect": false },
+        { "originalLabel": "D", "text": "La insulina aumenta el potasio serico", "isCorrect": false },
+        { "originalLabel": "E", "text": "La acidosis no modifica la distribucion del potasio", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Existe habitualmente deficit corporal total de potasio aunque inicialmente el potasio serico pueda estar elevado",
+      "explanation": "La diuresis osmotica produce perdida corporal de potasio.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q19",
+      "number": 19,
+      "stem": "El antídoto de eleccion en la intoxicacion por paracetamol es:",
+      "options": [
+        { "originalLabel": "A", "text": "Flumazenilo", "isCorrect": false },
+        { "originalLabel": "B", "text": "N-acetilcisteina", "isCorrect": true },
+        { "originalLabel": "C", "text": "Atropina", "isCorrect": false },
+        { "originalLabel": "D", "text": "Naloxona", "isCorrect": false },
+        { "originalLabel": "E", "text": "Dimercaprol", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "N-acetilcisteina",
+      "explanation": "La N-acetilcisteina repone glutation y previene la hepatotoxicidad por metabolitos toxicos.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q20",
+      "number": 20,
+      "stem": "El antídoto especifico para la intoxicacion por benzodiazepinas es:",
+      "options": [
+        { "originalLabel": "A", "text": "Flumazenilo", "isCorrect": true },
+        { "originalLabel": "B", "text": "Naloxona", "isCorrect": false },
+        { "originalLabel": "C", "text": "Fisostigmina", "isCorrect": false },
+        { "originalLabel": "D", "text": "N-acetilcisteina", "isCorrect": false },
+        { "originalLabel": "E", "text": "Atropina", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Flumazenilo",
+      "explanation": "El flumazenilo es el antagonista competitivo de los receptores GABA-A.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q21",
+      "number": 21,
+      "stem": "El tratamiento especifico de la intoxicacion por organofosforados combina:",
+      "options": [
+        { "originalLabel": "A", "text": "Naloxona y carbon activado", "isCorrect": false },
+        { "originalLabel": "B", "text": "Atropina y pralidoxima", "isCorrect": true },
+        { "originalLabel": "C", "text": "Flumazenilo y fluidos", "isCorrect": false },
+        { "originalLabel": "D", "text": "Carbon activado aislado", "isCorrect": false },
+        { "originalLabel": "E", "text": "Diureticos forzosos", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Atropina y pralidoxima",
+      "explanation": "La atropina controla los sintomas muscarinicos y la pralidoxima reactiva la colinesterasa.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q22",
+      "number": 22,
+      "stem": "Cual es el antídoto de eleccion en la intoxicacion por opioides?",
+      "options": [
+        { "originalLabel": "A", "text": "Flumazenilo", "isCorrect": false },
+        { "originalLabel": "B", "text": "Naloxona", "isCorrect": true },
+        { "originalLabel": "C", "text": "Atropina", "isCorrect": false },
+        { "originalLabel": "D", "text": "N-acetilcisteina", "isCorrect": false },
+        { "originalLabel": "E", "text": "Fisostigmina", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Naloxona",
+      "explanation": "La naloxona es un antagonista opioide de accion rapida.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q23",
+      "number": 23,
+      "stem": "En la intoxicacion por anticolinergicos, el antídoto especifico es:",
+      "options": [
+        { "originalLabel": "A", "text": "Atropina", "isCorrect": false },
+        { "originalLabel": "B", "text": "Fisostigmina", "isCorrect": true },
+        { "originalLabel": "C", "text": "Naloxona", "isCorrect": false },
+        { "originalLabel": "D", "text": "Flumazenilo", "isCorrect": false },
+        { "originalLabel": "E", "text": "Pralidoxima", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Fisostigmina",
+      "explanation": "La fisostigmina inhibe la acetilcolinesterasa y revierte los sintomas anticolinergicos centrales.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q24",
+      "number": 24,
+      "stem": "Cual de los siguientes hallazgos es caracteristico del sindrome anticolinergico?",
+      "options": [
+        { "originalLabel": "A", "text": "Miosis y bradicardia", "isCorrect": false },
+        { "originalLabel": "B", "text": "Midriasis, taquicardia, piel seca y retencion urinaria", "isCorrect": true },
+        { "originalLabel": "C", "text": "Sialorrea y diarrea", "isCorrect": false },
+        { "originalLabel": "D", "text": "Lagrimeo y broncoconstriccion", "isCorrect": false },
+        { "originalLabel": "E", "text": "Fasciculaciones y sudoracion", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Midriasis, taquicardia, piel seca y retencion urinaria",
+      "explanation": "El sindrome anticolinergico se manifiesta con midriasis, taquicardia, piel seca, retencion urinaria y alteraciones del estado de conciencia.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q25",
+      "number": 25,
+      "stem": "La causa mas frecuente de muerte celular irreversible tras isquemia prolongada es:",
+      "options": [
+        { "originalLabel": "A", "text": "Necrosis por reperfusion aislada", "isCorrect": false },
+        { "originalLabel": "B", "text": "Agotamiento de ATP y fallo de bombas ionicas", "isCorrect": true },
+        { "originalLabel": "C", "text": "Aumento de glucogeno", "isCorrect": false },
+        { "originalLabel": "D", "text": "Hiperfuncion mitocondrial", "isCorrect": false },
+        { "originalLabel": "E", "text": "Exceso de oxigeno", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Agotamiento de ATP y fallo de bombas ionicas",
+      "explanation": "La isquemia prolongada agota el ATP y provoca fallo de las bombas de sodio y potasio, con entrada masiva de calcio y muerte celular.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q26",
+      "number": 26,
+      "stem": "Un paciente con shock septico persiste hipotenso despues de una reanimacion inicial apropiada con liquidos. Cual es el vasopresor de primera linea?",
+      "options": [
+        { "originalLabel": "A", "text": "Dopamina", "isCorrect": false },
+        { "originalLabel": "B", "text": "Norepinefrina", "isCorrect": true },
+        { "originalLabel": "C", "text": "Dobutamina", "isCorrect": false },
+        { "originalLabel": "D", "text": "Milrinona", "isCorrect": false },
+        { "originalLabel": "E", "text": "Nitroglicerina", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Norepinefrina",
+      "explanation": "La norepinefrina es el vasopresor de primera linea en el choque septico despues de la reanimacion con liquidos.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q27",
+      "number": 27,
+      "stem": "Cual tipo de shock se caracteriza por vasodilatacion periferica intensa con resistencia vascular sistemica baja y gasto cardiaco inicialmente alto?",
+      "options": [
+        { "originalLabel": "A", "text": "Distributivo", "isCorrect": true },
+        { "originalLabel": "B", "text": "Cardiogenico", "isCorrect": false },
+        { "originalLabel": "C", "text": "Hipovolemico", "isCorrect": false },
+        { "originalLabel": "D", "text": "Obstructivo", "isCorrect": false },
+        { "originalLabel": "E", "text": "Hemorragico", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Distributivo",
+      "explanation": "El shock distributivo, como el septico, cursa con vasodilatacion y resistencia vascular baja.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q28",
+      "number": 28,
+      "stem": "Un paciente con infarto agudo de miocardio presenta hipotension, ingurgitacion yugular y congestion pulmonar. Cual es el tipo de shock mas probable?",
+      "options": [
+        { "originalLabel": "A", "text": "Hipovolemico", "isCorrect": false },
+        { "originalLabel": "B", "text": "Cardiogenico", "isCorrect": true },
+        { "originalLabel": "C", "text": "Distributivo", "isCorrect": false },
+        { "originalLabel": "D", "text": "Obstructivo", "isCorrect": false },
+        { "originalLabel": "E", "text": "Neurogenico", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Cardiogenico",
+      "explanation": "El shock cardiogenico resulta de fallo de bomba, frecuentemente por infarto extenso.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q29",
+      "number": 29,
+      "stem": "Una mujer de 35 semanas de gestacion presenta presion arterial de 170/115 mmHg, cefalea y proteinuria. Cual es el diagnostico mas probable?",
+      "options": [
+        { "originalLabel": "A", "text": "Gestacion normal", "isCorrect": false },
+        { "originalLabel": "B", "text": "Preeclampsia con severidad", "isCorrect": true },
+        { "originalLabel": "C", "text": "Hipertension cronica sin complicaciones", "isCorrect": false },
+        { "originalLabel": "D", "text": "Embarazo molar", "isCorrect": false },
+        { "originalLabel": "E", "text": "Cistitis", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Preeclampsia con severidad",
+      "explanation": "Las cifras tensionales severas con sintomas de alarma y proteinuria definen preeclampsia con severidad.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q30",
+      "number": 30,
+      "stem": "El diagnostico de diabetes mellitus se puede establecer con una glucemia casual mayor o igual a:",
+      "options": [
+        { "originalLabel": "A", "text": "100 mg/dL", "isCorrect": false },
+        { "originalLabel": "B", "text": "126 mg/dL", "isCorrect": false },
+        { "originalLabel": "C", "text": "180 mg/dL", "isCorrect": false },
+        { "originalLabel": "D", "text": "200 mg/dL", "isCorrect": true },
+        { "originalLabel": "E", "text": "250 mg/dL", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "D",
+      "officialAnswerText": "200 mg/dL",
+      "explanation": "La glucemia casual mayor o igual a 200 mg/dL con sintomas compatibles confirma diabetes.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q31",
+      "number": 31,
+      "stem": "Cual es el objetivo de HbA1c habitual recomendado en la mayoria de pacientes diabeticos no gestantes?",
+      "options": [
+        { "originalLabel": "A", "text": "Menor a 6.5 por ciento", "isCorrect": false },
+        { "originalLabel": "B", "text": "Menor a 7 por ciento", "isCorrect": true },
+        { "originalLabel": "C", "text": "Menor a 8.5 por ciento", "isCorrect": false },
+        { "originalLabel": "D", "text": "Menor a 9 por ciento", "isCorrect": false },
+        { "originalLabel": "E", "text": "Menor a 5 por ciento", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Menor a 7 por ciento",
+      "explanation": "Un objetivo de HbA1c menor a 7 por ciento es razonable en muchos adultos diabeticos.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q32",
+      "number": 32,
+      "stem": "El farmaco de primera linea en la diabetes mellitus tipo 2, salvo contraindicacion, es:",
+      "options": [
+        { "originalLabel": "A", "text": "Insulina basal", "isCorrect": false },
+        { "originalLabel": "B", "text": "Metformina", "isCorrect": true },
+        { "originalLabel": "C", "text": "Sulfonilureas", "isCorrect": false },
+        { "originalLabel": "D", "text": "Inhibidores de DPP-4", "isCorrect": false },
+        { "originalLabel": "E", "text": "Agonistas GLP-1", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Metformina",
+      "explanation": "La metformina es el tratamiento inicial de eleccion en la DM2.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q33",
+      "number": 33,
+      "stem": "Cual complicacion aguda se asocia a cetoacidosis diabetica?",
+      "options": [
+        { "originalLabel": "A", "text": "Hipoglucemia severa aislada", "isCorrect": false },
+        { "originalLabel": "B", "text": "Deshidratacion y alteraciones electroliticas", "isCorrect": true },
+        { "originalLabel": "C", "text": "Alcalosis metabolica", "isCorrect": false },
+        { "originalLabel": "D", "text": "Hipertension maligna", "isCorrect": false },
+        { "originalLabel": "E", "text": "Bradicardia extrema", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Deshidratacion y alteraciones electroliticas",
+      "explanation": "La CAD cursa con deshidratacion, perdida de electrolitos y acidosis metabolica.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q34",
+      "number": 34,
+      "stem": "En la cetoacidosis diabetica, el orden correcto del manejo inicial es:",
+      "options": [
+        { "originalLabel": "A", "text": "Insulina antes que liquidos", "isCorrect": false },
+        { "originalLabel": "B", "text": "Reanimacion con liquidos, luego potasio segun nivel y despues insulina", "isCorrect": true },
+        { "originalLabel": "C", "text": "Bicarbonato de rutina en todos los casos", "isCorrect": false },
+        { "originalLabel": "D", "text": "Solo insulina sin fluidos", "isCorrect": false },
+        { "originalLabel": "E", "text": "Glucosa hipertonica inicial", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Reanimacion con liquidos, luego potasio segun nivel y despues insulina",
+      "explanation": "Primero se reanima con cristaloide, se corrige el potasio segun su nivel y luego se inicia insulina.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q35",
+      "number": 35,
+      "stem": "Cual es la causa mas frecuente de hipotiroidismo en zonas con aporte adecuado de yodo?",
+      "options": [
+        { "originalLabel": "A", "text": "Deficiencia de yodo", "isCorrect": false },
+        { "originalLabel": "B", "text": "Tiroiditis de Hashimoto", "isCorrect": true },
+        { "originalLabel": "C", "text": "Cirugia tiroidea", "isCorrect": false },
+        { "originalLabel": "D", "text": "Radioterapia", "isCorrect": false },
+        { "originalLabel": "E", "text": "Farmacos", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Tiroiditis de Hashimoto",
+      "explanation": "En regiones yodosuficientes, la tiroiditis de Hashimoto es la causa mas comun de hipotiroidismo.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q36",
+      "number": 36,
+      "stem": "El patron de funcion tiroidea tipico del hipotiroidismo primario es:",
+      "options": [
+        { "originalLabel": "A", "text": "TSH baja y T4L alta", "isCorrect": false },
+        { "originalLabel": "B", "text": "TSH alta y T4L baja", "isCorrect": true },
+        { "originalLabel": "C", "text": "TSH normal y T4L alta", "isCorrect": false },
+        { "originalLabel": "D", "text": "TSH baja y T4L normal", "isCorrect": false },
+        { "originalLabel": "E", "text": "TSH alta y T4L alta", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "TSH alta y T4L baja",
+      "explanation": "En el hipotiroidismo primario la TSH se eleva por falta de retroalimentacion de T4.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q37",
+      "number": 37,
+      "stem": "Cual de los siguientes sintomas es caracteristico del hipertiroidismo?",
+      "options": [
+        { "originalLabel": "A", "text": "Bradicardia y aumento de peso", "isCorrect": false },
+        { "originalLabel": "B", "text": "Taquicardia, intolerancia al calor y perdida de peso", "isCorrect": true },
+        { "originalLabel": "C", "text": "Estrenimiento y fatiga", "isCorrect": false },
+        { "originalLabel": "D", "text": "Piel seca y caida de cejas", "isCorrect": false },
+        { "originalLabel": "E", "text": "Hipotermia y obnubilacion", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Taquicardia, intolerancia al calor y perdida de peso",
+      "explanation": "El hipertiroidismo cursa con hipermetabolismo, taquicardia, intolerancia al calor y perdida de peso.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q38",
+      "number": 38,
+      "stem": "La crisis tirotoxica se maneja con betabloqueantes, tionamidas, yodo despues de tionamidas y:",
+      "options": [
+        { "originalLabel": "A", "text": "Corticoides", "isCorrect": true },
+        { "originalLabel": "B", "text": "Insulina", "isCorrect": false },
+        { "originalLabel": "C", "text": "Atropina", "isCorrect": false },
+        { "originalLabel": "D", "text": "Digoxina", "isCorrect": false },
+        { "originalLabel": "E", "text": "Furosemida aislada", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Corticoides",
+      "explanation": "Los corticoides bloquean la conversion periferica de T4 a T3 y tratan la insuficiencia suprarrenal relativa.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q39",
+      "number": 39,
+      "stem": "Cual es el estudio de imagen de eleccion ante sospecha de colelitiasis con colecistitis?",
+      "options": [
+        { "originalLabel": "A", "text": "Tomografia abdominal", "isCorrect": false },
+        { "originalLabel": "B", "text": "Ecografia abdominal", "isCorrect": true },
+        { "originalLabel": "C", "text": "Resonancia magnetica", "isCorrect": false },
+        { "originalLabel": "D", "text": "Radiografia simple", "isCorrect": false },
+        { "originalLabel": "E", "text": "Colangiopancreatografia retrograda", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Ecografia abdominal",
+      "explanation": "La ecografia es el estudio inicial de eleccion por sensibilidad para calculos y signos de colecistitis.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q40",
+      "number": 40,
+      "stem": "El sindrome metabolico requiere al menos tres de varios componentes. Cual de los siguientes NO es uno de ellos?",
+      "options": [
+        { "originalLabel": "A", "text": "Obesidad abdominal", "isCorrect": false },
+        { "originalLabel": "B", "text": "Presion arterial elevada", "isCorrect": false },
+        { "originalLabel": "C", "text": "Glucemia en ayunas elevada", "isCorrect": false },
+        { "originalLabel": "D", "text": "Hipertrigliceridemia", "isCorrect": false },
+        { "originalLabel": "E", "text": "Hipotiroidismo", "isCorrect": true }
+      ],
+      "officialAnswerLetter": "E",
+      "officialAnswerText": "Hipotiroidismo",
+      "explanation": "El hipotiroidismo no forma parte de los criterios del sindrome metabolico.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q41",
+      "number": 41,
+      "stem": "Cual es el microorganismo mas frecuente en infeccion de via urinaria no complicada?",
+      "options": [
+        { "originalLabel": "A", "text": "Enterococcus faecalis", "isCorrect": false },
+        { "originalLabel": "B", "text": "Escherichia coli", "isCorrect": true },
+        { "originalLabel": "C", "text": "Proteus mirabilis", "isCorrect": false },
+        { "originalLabel": "D", "text": "Klebsiella pneumoniae", "isCorrect": false },
+        { "originalLabel": "E", "text": "Staphylococcus saprophyticus", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Escherichia coli",
+      "explanation": "Escherichia coli es el uropatógeno mas frecuente en IVU no complicada.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q42",
+      "number": 42,
+      "stem": "El tratamiento empirico de primera linea en cistitis aguda no complicada suele incluir:",
+      "options": [
+        { "originalLabel": "A", "text": "Nitrofurantoina o fosfomicina", "isCorrect": true },
+        { "originalLabel": "B", "text": "Vancomicina intravenosa", "isCorrect": false },
+        { "originalLabel": "C", "text": "Meropenem", "isCorrect": false },
+        { "originalLabel": "D", "text": "Ceftriaxona intramuscular obligatoria", "isCorrect": false },
+        { "originalLabel": "E", "text": "Fluconazol", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Nitrofurantoina o fosfomicina",
+      "explanation": "La nitrofurantoina y la fosfomicina son opciones empiricas de primera linea en cistitis no complicada.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q43",
+      "number": 43,
+      "stem": "Cual dato orienta a pielonefritis y no a cistitis simple?",
+      "options": [
+        { "originalLabel": "A", "text": "Disuria aislada", "isCorrect": false },
+        { "originalLabel": "B", "text": "Fiebre, dolor costovertebral y malestar general", "isCorrect": true },
+        { "originalLabel": "C", "text": "Polaquiuria sin fiebre", "isCorrect": false },
+        { "originalLabel": "D", "text": "Urgencia miccional aislada", "isCorrect": false },
+        { "originalLabel": "E", "text": "Hematuria macroscopica sin fiebre", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Fiebre, dolor costovertebral y malestar general",
+      "explanation": "La fiebre y el dolor en angulo costovertebral sugieren afectacion del parenquima renal.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q44",
+      "number": 44,
+      "stem": "En la insuficiencia renal aguda, el criterio de inicio de terapia de reemplazo renal incluye:",
+      "options": [
+        { "originalLabel": "A", "text": "Solo creatinina ligeramente elevada", "isCorrect": false },
+        { "originalLabel": "B", "text": "Acidosis refractaria, hiperpotasemia severa, sobrecarga hidrica o uremia sintomatica", "isCorrect": true },
+        { "originalLabel": "C", "text": "Proteinuria aislada", "isCorrect": false },
+        { "originalLabel": "D", "text": "Hematuria microscopica", "isCorrect": false },
+        { "originalLabel": "E", "text": "Oliguria transitoria sin complicaciones", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Acidosis refractaria, hiperpotasemia severa, sobrecarga hidrica o uremia sintomatica",
+      "explanation": "Las indicaciones urgentes de dialisis se resumen en acidosis, electrolitos, intoxicacion hidrica y sintomas uremicos.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q45",
+      "number": 45,
+      "stem": "Cual es la causa mas frecuente de insuficiencia renal cronica?",
+      "options": [
+        { "originalLabel": "A", "text": "Glomerulonefritis", "isCorrect": false },
+        { "originalLabel": "B", "text": "Diabetes mellitus", "isCorrect": true },
+        { "originalLabel": "C", "text": "Hipertension", "isCorrect": false },
+        { "originalLabel": "D", "text": "Enfermedad poliquistica", "isCorrect": false },
+        { "originalLabel": "E", "text": "Nefropatia por analgesicos", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Diabetes mellitus",
+      "explanation": "La nefropatia diabetica es la principal causa de enfermedad renal cronica terminal.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q46",
+      "number": 46,
+      "stem": "Una mujer embarazada presenta convulsiones, hipertension severa y proteinuria. Cual es el diagnostico?",
+      "options": [
+        { "originalLabel": "A", "text": "Epilepsia", "isCorrect": false },
+        { "originalLabel": "B", "text": "Eclampsia", "isCorrect": true },
+        { "originalLabel": "C", "text": "Meningitis", "isCorrect": false },
+        { "originalLabel": "D", "text": "Accidente cerebrovascular", "isCorrect": false },
+        { "originalLabel": "E", "text": "Hipoglucemia", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Eclampsia",
+      "explanation": "La eclampsia es la aparicion de convulsiones en una paciente con preeclampsia.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q47",
+      "number": 47,
+      "stem": "El manejo definitivo de la eclampsia es:",
+      "options": [
+        { "originalLabel": "A", "text": "Sulfato de magnesio y terminacion del embarazo", "isCorrect": true },
+        { "originalLabel": "B", "text": "Solo diazepam", "isCorrect": false },
+        { "originalLabel": "C", "text": "Solo antihipertensivos", "isCorrect": false },
+        { "originalLabel": "D", "text": "Observacion", "isCorrect": false },
+        { "originalLabel": "E", "text": "Antibioticos", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Sulfato de magnesio y terminacion del embarazo",
+      "explanation": "El tratamiento incluye sulfato de magnesio, control de presion y culminacion del embarazo.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q48",
+      "number": 48,
+      "stem": "Cual es la complicacion mas temida del uso de sulfato de magnesio?",
+      "options": [
+        { "originalLabel": "A", "text": "Hipertension", "isCorrect": false },
+        { "originalLabel": "B", "text": "Depresion respiratoria y paro cardiaco por toxicidad", "isCorrect": true },
+        { "originalLabel": "C", "text": "Hipoglucemia", "isCorrect": false },
+        { "originalLabel": "D", "text": "Broncoespasmo", "isCorrect": false },
+        { "originalLabel": "E", "text": "Diarrea", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Depresion respiratoria y paro cardiaco por toxicidad",
+      "explanation": "La toxicidad por magnesio puede causar areflexia, depresion respiratoria y paro cardiaco.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q49",
+      "number": 49,
+      "stem": "En una paciente con hemorragia posparto y utero firme, la causa mas probable es:",
+      "options": [
+        { "originalLabel": "A", "text": "Trauma del canal del parto", "isCorrect": true },
+        { "originalLabel": "B", "text": "Atonia uterina", "isCorrect": false },
+        { "originalLabel": "C", "text": "Retencion de restos", "isCorrect": false },
+        { "originalLabel": "D", "text": "Coagulopatia", "isCorrect": false },
+        { "originalLabel": "E", "text": "Inversion uterina", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Trauma del canal del parto",
+      "explanation": "Con utero contraido, la hemorragia sugiere laceraciones del canal del parto.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q50",
+      "number": 50,
+      "stem": "La causa mas frecuente de hemorragia posparto es:",
+      "options": [
+        { "originalLabel": "A", "text": "Atonia uterina", "isCorrect": true },
+        { "originalLabel": "B", "text": "Trauma del canal", "isCorrect": false },
+        { "originalLabel": "C", "text": "Retencion de restos", "isCorrect": false },
+        { "originalLabel": "D", "text": "Coagulopatia", "isCorrect": false },
+        { "originalLabel": "E", "text": "Inversion uterina", "isCorrect": false }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Atonia uterina",
+      "explanation": "La atonia uterina representa la mayoria de los casos de hemorragia posparto.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    }
+    
+  ]
+}
