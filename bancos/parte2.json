@@ -1,0 +1,1917 @@
+{
+  "app": "Simulador Méritos y Oposición PUCE",
+  "type": "question-batch",
+  "batch": "002",
+  "batchLabel": "preguntas-051-100",
+  "createdAt": "2026-10-07T00:00:00.000Z",
+  "source": "BANCO DE PREGUNTAS RECOPILADAS DE MERITOS Y OPOSICION PUCE.pdf",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "pdf_q51",
+      "number": 51,
+      "stem": "Un recien nacido presenta ictericia durante las primeras 24 horas de vida. Cual afirmacion es correcta?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Siempre es fisiologica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "Debe considerarse patologica hasta demostrar lo contrario",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "C",
+          "text": "Nunca requiere evaluacion",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Es causada exclusivamente por lactancia",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Siempre requiere exanguinotransfusion",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Debe considerarse patologica hasta demostrar lo contrario",
+      "explanation": "La ictericia que aparece durante las primeras 24 horas de vida es un signo de alarma y requiere evaluacion de la bilirrubina y busqueda de causas patologicas, especialmente hemolisis. No significa que todos los casos requieran tratamiento invasivo.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q52",
+      "number": 52,
+      "stem": "Un recien nacido prematuro inicia alimentacion enteral y posteriormente presenta distension abdominal, intolerancia alimentaria y sangre en heces. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Estenosis hipertrofica del piloro",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "Enterocolitis necrotizante",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "C",
+          "text": "Enfermedad de Hirschsprung exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Reflujo gastroesofagico fisiologico",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Intolerancia a lactosa aislada",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Enterocolitis necrotizante",
+      "explanation": "La prematuridad es un factor de riesgo importante para enterocolitis necrotizante. La distension abdominal, intolerancia alimentaria y sangre en heces son hallazgos compatibles; la neumatosis intestinal es un hallazgo radiologico caracteristico.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": [
+        "Contenido repetido o muy similar a la pregunta 12 del bloque anterior, que tambien evalua enterocolitis necrotizante."
+      ]
+    },
+    {
+      "id": "pdf_q53",
+      "number": 53,
+      "stem": "Un lactante presenta episodios de llanto intenso, flexion de las piernas, vomitos y deposiciones con sangre y moco descritas como jalea de grosella. Cual es el diagnostico?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Invaginacion intestinal",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Apendicitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Estenosis pilorica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Enterocolitis necrotizante",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Enfermedad celiaca",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Invaginacion intestinal",
+      "explanation": "La invaginacion intestinal puede producir dolor abdominal episodico intenso, vomitos y, en fases mas avanzadas, heces con sangre y moco descritas clasicalmente como jalea de grosella. Una masa abdominal puede estar presente, pero no es necesaria para establecer la sospecha clinica.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q54",
+      "number": 54,
+      "stem": "Un lactante de pocas semanas presenta vomitos no biliosos en proyectil despues de alimentarse y posteriormente permanece con hambre. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Estenosis hipertrofica del piloro",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Atresia duodenal",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Invaginacion intestinal",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Apendicitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Enterocolitis necrotizante",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Estenosis hipertrofica del piloro",
+      "explanation": "Los vomitos no biliosos y progresivamente en proyectil durante las primeras semanas de vida son caracteristicos de la estenosis hipertrofica del piloro. Puede producir alcalosis metabolica hipocloremica por perdida de acido gastrico.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q55",
+      "number": 55,
+      "stem": "Un nino presenta tos perruna, disfonia y estridor inspiratorio. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Crup",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Bronquiolitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Neumonia bacteriana",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Asma",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Tuberculosis",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Crup",
+      "explanation": "El crup o laringotraqueitis viral se caracteriza tipicamente por tos perruna, disfonia y estridor inspiratorio.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q56",
+      "number": 56,
+      "stem": "Un nino presenta fiebre alta, aspecto toxico, babeo, dificultad para deglutir y posicion en tripode. Cual es el diagnostico que debe considerarse?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Epiglotitis",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Bronquiolitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Sinusitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Otitis externa",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Rinitis alergica",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Epiglotitis",
+      "explanation": "La fiebre alta, aspecto toxico, babeo, disfagia y posicion en tripode son signos de alarma compatibles con epiglotitis y posible compromiso rapido de la via aerea. Debe evitarse la manipulacion innecesaria de la orofaringe.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q57",
+      "number": 57,
+      "stem": "Un nino presenta edema generalizado y proteinuria importante. Cual es el diagnostico sindromico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Sindrome nefrotico",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Sindrome nefritico exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Pielonefritis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Diabetes insipida",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Litiasis renal",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Sindrome nefrotico",
+      "explanation": "El sindrome nefrotico se caracteriza por proteinuria importante, hipoalbuminemia y edema, y puede asociarse con hiperlipidemia.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q58",
+      "number": 58,
+      "stem": "Un nino presenta edema, hipertension, hematuria y disminucion del filtrado glomerular. Cual es el diagnostico sindromico?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Sindrome nefritico",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Sindrome nefrotico puro",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Diabetes insipida",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Cistitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Uretritis",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Sindrome nefritico",
+      "explanation": "El sindrome nefritico se caracteriza por inflamacion glomerular con hematuria, hipertension, edema y disminucion variable de la funcion renal.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q59",
+      "number": 59,
+      "stem": "Cual es una manifestacion caracteristica de infeccion congenita por citomegalovirus?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Calcificaciones periventriculares",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Estenosis pilorica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Macroglosia aislada",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Polidactilia",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Atresia esofagica",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Calcificaciones periventriculares",
+      "explanation": "El CMV congenito puede producir calcificaciones periventriculares, microcefalia, hipoacusia neurosensorial, petequias, hepatoesplenomegalia y alteraciones neurologicas y visuales.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q60",
+      "number": 60,
+      "stem": "Que tipo de hipoacusia se asocia caracteristicamente con enfermedad de Meniere?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Conductiva",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "Neurosensorial fluctuante",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "C",
+          "text": "Central exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Congenita exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Por perforacion timpanica",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Neurosensorial fluctuante",
+      "explanation": "La enfermedad de Meniere se caracteriza por episodios de vertigo, tinnitus, plenitud aural e hipoacusia neurosensorial fluctuante, inicialmente con predominio de frecuencias bajas.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q61",
+      "number": 61,
+      "stem": "Un paciente presenta dolor abdominal que inicia en region periumbilical y posteriormente migra hacia la fosa iliaca derecha, asociado a anorexia y nauseas. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Apendicitis aguda",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Pancreatitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Colecistitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Diverticulitis izquierda",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Hepatitis",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Apendicitis aguda",
+      "explanation": "La migracion del dolor desde la region periumbilical hacia la fosa iliaca derecha, asociada a anorexia y nauseas, es una presentacion clasica de apendicitis aguda.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q62",
+      "number": 62,
+      "stem": "Un paciente presenta dolor en hipocondrio derecho, fiebre, nauseas y signo de Murphy positivo. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Colecistitis aguda",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Apendicitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Pancreatitis cronica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Diverticulitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Gastritis",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Colecistitis aguda",
+      "explanation": "El dolor en hipocondrio derecho, fiebre y signo de Murphy positivo son hallazgos compatibles con colecistitis aguda. La ecografia abdominal suele ser el estudio inicial de imagen.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q63",
+      "number": 63,
+      "stem": "Un paciente presenta dolor epigastrico intenso irradiado hacia la espalda, nauseas y una concentracion de lipasa mayor de tres veces el limite superior normal. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Pancreatitis aguda",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Apendicitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Colecistitis cronica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Hepatitis viral",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Obstruccion intestinal",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Pancreatitis aguda",
+      "explanation": "El diagnostico de pancreatitis aguda se establece habitualmente cuando se cumplen al menos dos de tres criterios: dolor abdominal compatible, elevacion de amilasa o lipasa al menos tres veces el limite superior normal, o hallazgos caracteristicos en imagen.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": [
+        "Pregunta original incompleta en cuanto al grado de elevacion de la lipasa; se preciso como mayor de tres veces el limite superior normal."
+      ]
+    },
+    {
+      "id": "pdf_q64",
+      "number": 64,
+      "stem": "Un paciente presenta distension abdominal, vomitos, dolor abdominal tipo colico y ausencia de eliminacion de gases y heces. Cual diagnostico debe considerarse?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Obstruccion intestinal",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Hepatitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Gastritis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Pielonefritis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Pancreatitis exclusivamente",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Obstruccion intestinal",
+      "explanation": "El dolor abdominal tipo colico, vomitos, distension y ausencia de eliminacion de gases y heces son hallazgos clasicos de obstruccion intestinal.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q65",
+      "number": 65,
+      "stem": "Cual de los siguientes hallazgos sugiere irritacion peritoneal?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Rigidez y dolor a la descompresion",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Rinorrea",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Tos seca",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Edema maleolar",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Diplopia",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Rigidez y dolor a la descompresion",
+      "explanation": "La rigidez abdominal, la defensa involuntaria y el dolor a la descompresion son hallazgos compatibles con irritacion peritoneal.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q66",
+      "number": 66,
+      "stem": "Cual de las siguientes estructuras es predominantemente retroperitoneal?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Rinon",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Bazo",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Estomago",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Yeyuno",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Colon transverso",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Rinon",
+      "explanation": "Los rinones son estructuras retroperitoneales. Tambien se encuentran en el retroperitoneo las glandulas suprarrenales, los ureteres y varias porciones del duodeno y pancreas.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q67",
+      "number": 67,
+      "stem": "Un paciente presenta dolor intenso de una extremidad, palidez, ausencia de pulso, parestesias y debilidad de inicio agudo. Cual es el diagnostico?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Isquemia arterial aguda",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Insuficiencia venosa cronica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Linfedema",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Celulitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Artritis",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Isquemia arterial aguda",
+      "explanation": "La isquemia arterial aguda se manifiesta tipicamente por dolor, palidez, ausencia de pulso, parestesias, debilidad o paralisis y frialdad de la extremidad.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q68",
+      "number": 68,
+      "stem": "Un paciente presenta aumento de volumen unilateral de una pierna, dolor y factores de riesgo trombotico. Cual diagnostico debe considerarse?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Trombosis venosa profunda",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Isquemia arterial aguda",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Insuficiencia cardiaca exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Gota",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Artritis septica obligatoria",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Trombosis venosa profunda",
+      "explanation": "La hinchazon unilateral, dolor y presencia de factores de riesgo trombotico deben hacer sospechar trombosis venosa profunda. La probabilidad clinica debe estimarse antes de seleccionar estudios como dimero D o ecografia venosa.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q69",
+      "number": 69,
+      "stem": "Que escala clinica se utiliza frecuentemente para estimar la probabilidad pretest de trombosis venosa profunda?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Wells",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Glasgow",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "APGAR",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Child Pugh",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "CURB 65",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Wells",
+      "explanation": "La escala de Wells para trombosis venosa profunda permite estimar la probabilidad clinica pretest y orientar la estrategia diagnostica.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q70",
+      "number": 70,
+      "stem": "Que escala se utiliza frecuentemente para estimar la probabilidad clinica de embolia pulmonar?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Wells",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "APGAR",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Glasgow",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Bishop",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Child Pugh",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Wells",
+      "explanation": "La escala de Wells para embolia pulmonar permite estimar la probabilidad clinica pretest y ayuda a orientar la necesidad de pruebas como dimero D o estudios de imagen.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q71",
+      "number": 71,
+      "stem": "Cual es la puntuacion maxima de la escala de coma de Glasgow?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "13",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "15",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "E",
+          "text": "20",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "D",
+      "officialAnswerText": "15",
+      "explanation": "La escala de coma de Glasgow evalua apertura ocular, respuesta verbal y respuesta motora. La puntuacion total va de 3 a 15.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q72",
+      "number": 72,
+      "stem": "Un paciente traumatizado presenta Glasgow de 7 puntos. Cual afirmacion es correcta?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Corresponde a traumatismo craneal leve",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "Existe compromiso neurologico grave y debe evaluarse la necesidad de proteger la via aerea",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "C",
+          "text": "No requiere vigilancia",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Corresponde a Glasgow normal",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Puede ser dado de alta inmediatamente",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Existe compromiso neurologico grave y debe evaluarse la necesidad de proteger la via aerea",
+      "explanation": "Una puntuacion de Glasgow de 7 corresponde a compromiso neurologico grave. En pacientes con traumatismo craneoencefalico y Glasgow igual o menor a 8 debe valorarse de forma urgente la proteccion de la via aerea.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q73",
+      "number": 73,
+      "stem": "Que escala se utiliza para evaluar la gravedad de una neumonia adquirida en la comunidad mediante confusion, urea, frecuencia respiratoria, presion arterial y edad?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "CURB 65",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Wells",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Glasgow",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "APGAR",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "CHA2DS2 VASc",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "CURB 65",
+      "explanation": "CURB-65 utiliza confusion, urea, frecuencia respiratoria, presion arterial y edad de 65 anos o mas para estratificar la gravedad de la neumonia adquirida en la comunidad.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q74",
+      "number": 74,
+      "stem": "Cual de los siguientes componentes forma parte de CURB 65?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Frecuencia respiratoria igual o mayor a 30 por minuto",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Frecuencia cardiaca mayor a 60",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Saturacion mayor a 95 por ciento",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Glucosa mayor a 100 mg/dL",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Hemoglobina menor a 15 g/dL",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Frecuencia respiratoria igual o mayor a 30 por minuto",
+      "explanation": "CURB-65 incluye confusion, urea elevada, frecuencia respiratoria de 30 o mas por minuto, presion arterial baja y edad de 65 anos o mas.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q75",
+      "number": 75,
+      "stem": "Que escala se utiliza frecuentemente para estimar el riesgo tromboembolico en pacientes con fibrilacion auricular?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "CHA2DS2 VASc",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Glasgow",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Bishop",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "APGAR",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "CURB 65",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "CHA2DS2 VASc",
+      "explanation": "CHA2DS2-VASc es una escala historicamente utilizada para estimar riesgo de accidente cerebrovascular y tromboembolismo en fibrilacion auricular. Sus componentes incluyen insuficiencia cardiaca, hipertension, edad, diabetes, antecedente de accidente cerebrovascular o AIT, enfermedad vascular y sexo.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": [
+        "La pregunta sigue siendo valida para el banco, pero conviene actualizar el contenido segun la guia utilizada: la ESC 2024 introduce CHA2DS2-VA como herramienta preferida, aunque CHA2DS2-VASc continua siendo ampliamente conocido y utilizado."
+      ]
+    },
+    {
+      "id": "pdf_q76",
+      "number": 76,
+      "stem": "Que escala se utiliza para valorar rapidamente el estado de un recien nacido inmediatamente despues del nacimiento?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "APGAR",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Glasgow",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Wells",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "CURB 65",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Child Pugh",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "APGAR",
+      "explanation": "La puntuacion APGAR evalua apariencia, pulso, respuesta refleja, actividad muscular y respiracion del recien nacido.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q77",
+      "number": 77,
+      "stem": "En que momentos se evalua habitualmente la puntuacion APGAR?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Al minuto y a los cinco minutos",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "A las 24 y 48 horas",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "A los 7 y 14 dias",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "A las 6 y 12 horas",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Solo al nacimiento",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Al minuto y a los cinco minutos",
+      "explanation": "La puntuacion APGAR se registra habitualmente al minuto y a los cinco minutos de vida. Si la puntuacion permanece baja, pueden realizarse evaluaciones adicionales.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q78",
+      "number": 78,
+      "stem": "Que escala obstetrica se utiliza para evaluar las condiciones cervicales y estimar la probabilidad de exito de una induccion del trabajo de parto?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Bishop",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "APGAR",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Glasgow",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Wells",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "CURB 65",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Bishop",
+      "explanation": "La escala de Bishop evalua dilatacion, borramiento, estacion fetal, consistencia y posicion cervical para valorar la madurez cervical y la probabilidad de una induccion exitosa.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q79",
+      "number": 79,
+      "stem": "Que escala se utiliza para evaluar la gravedad de enfermedad hepatica cronica considerando parametros como bilirrubina, albumina, INR, ascitis y encefalopatia?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Child Pugh",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Glasgow",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Wells",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "APGAR",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Bishop",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Child Pugh",
+      "explanation": "La escala Child-Pugh clasifica la gravedad de la enfermedad hepatica cronica en clases A, B y C mediante bilirrubina, albumina, INR o tiempo de protrombina, ascitis y encefalopatia hepatica.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q80",
+      "number": 80,
+      "stem": "Un paciente cirrotico presenta hematemesis abundante. Cual causa debe considerarse prioritariamente?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Hemorragia por varices esofagogastricas",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Apendicitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Diverticulitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Pancreatitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Hemorroides externas",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Hemorragia por varices esofagogastricas",
+      "explanation": "En un paciente con cirrosis y hematemesis abundante debe considerarse prioritariamente una hemorragia variceal secundaria a hipertension portal, aunque tambien deben contemplarse otras causas de hemorragia digestiva alta.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q81",
+      "number": 81,
+      "stem": "Un paciente presenta hematemesis y melena. Que localizacion del sangrado es mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Tracto gastrointestinal superior",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Colon distal exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Recto exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Via urinaria",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Via respiratoria",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Tracto gastrointestinal superior",
+      "explanation": "La hematemesis indica sangrado digestivo proximal al ligamento de Treitz. La melena tambien suele corresponder a una fuente digestiva alta, aunque puede aparecer con algunas fuentes del intestino delgado o colon derecho.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q82",
+      "number": 82,
+      "stem": "Un paciente presenta dolor toracico opresivo de 40 minutos de duracion. Cual es el primer estudio que debe obtenerse rapidamente ante sospecha de sindrome coronario agudo?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Electrocardiograma de 12 derivaciones",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Prueba de esfuerzo",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Resonancia cardiaca",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Holter de siete dias",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Radiografia de abdomen",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Electrocardiograma de 12 derivaciones",
+      "explanation": "Ante sospecha de sindrome coronario agudo debe obtenerse rapidamente un ECG de 12 derivaciones, porque permite identificar cambios isquemicos y especialmente una posible elevacion del segmento ST que modifica de inmediato la conducta.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q83",
+      "number": 83,
+      "stem": "Cual es el biomarcador de eleccion para detectar lesion miocardica?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Troponina cardiaca",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Amilasa",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Bilirrubina",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Fosfatasa alcalina",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Lipasa",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Troponina cardiaca",
+      "explanation": "Las troponinas cardiacas, especialmente las de alta sensibilidad, son los biomarcadores preferidos para detectar lesion miocardica en el contexto de sospecha de sindrome coronario agudo.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q84",
+      "number": 84,
+      "stem": "Un paciente presenta deficit neurologico focal de inicio subito. Cual es uno de los primeros estudios de imagen que debe solicitarse?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Tomografia de craneo sin contraste",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Radiografia de craneo",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Electromiografia",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Radiografia de torax exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Ecografia abdominal",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Tomografia de craneo sin contraste",
+      "explanation": "Ante un deficit neurologico focal de inicio subito, la tomografia de craneo sin contraste permite identificar rapidamente una hemorragia intracraneal y orientar el manejo inicial del accidente cerebrovascular.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q85",
+      "number": 85,
+      "stem": "Un paciente presenta cefalea de maxima intensidad desde el inicio, rigidez de nuca y vomitos. Cual diagnostico debe considerarse?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Hemorragia subaracnoidea",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Cefalea tensional",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Sinusitis cronica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Otitis externa",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Neuralgia periferica",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Hemorragia subaracnoidea",
+      "explanation": "La cefalea en trueno, especialmente cuando alcanza su maxima intensidad desde el inicio y se acompana de rigidez de nuca y vomitos, obliga a descartar hemorragia subaracnoidea.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q86",
+      "number": 86,
+      "stem": "Un paciente presenta fiebre, rigidez de nuca, cefalea y alteracion del estado mental. Cual diagnostico debe considerarse?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Meningitis",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Migrana simple",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Sinusitis aislada",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Otitis externa",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Neuralgia del trigemino",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Meningitis",
+      "explanation": "Fiebre, cefalea, rigidez de nuca y alteracion del estado mental son hallazgos altamente sugestivos de infeccion del sistema nervioso central, especialmente meningitis, y requieren evaluacion urgente.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q87",
+      "number": 87,
+      "stem": "Un paciente presenta paralisis facial periferica unilateral aguda sin otros deficit neurologicos. Cual diagnostico es mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Paralisis de Bell",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Accidente cerebrovascular necesariamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Miastenia gravis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Enfermedad de Parkinson",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Meningitis",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Paralisis de Bell",
+      "explanation": "La paralisis de Bell produce una paralisis facial periferica unilateral que compromete tanto la musculatura frontal como la porcion inferior de la cara. El contexto clinico debe evaluarse para excluir causas secundarias.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q88",
+      "number": 88,
+      "stem": "Un paciente presenta temblor de reposo, rigidez, bradicinesia e inestabilidad postural. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Enfermedad de Parkinson",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Esclerosis multiple",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Miastenia gravis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Meningitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Sindrome de Guillain Barre",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Enfermedad de Parkinson",
+      "explanation": "La bradicinesia es una caracteristica fundamental del parkinsonismo y suele acompanarse de rigidez y temblor de reposo. El diagnostico definitivo requiere integracion clinica y exclusion de causas secundarias.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q89",
+      "number": 89,
+      "stem": "Un paciente presenta debilidad ascendente simetrica y arreflexia despues de una infeccion gastrointestinal. Cual es el diagnostico mas probable?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Sindrome de Guillain Barre",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Miastenia gravis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Enfermedad de Parkinson",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Meningitis",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Epilepsia",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Sindrome de Guillain Barre",
+      "explanation": "El sindrome de Guillain-Barre es una polirradiculoneuropatia inflamatoria aguda que suele producir debilidad progresiva y disminucion o ausencia de reflejos. Puede aparecer despues de una infeccion, incluida la gastroenteritis por Campylobacter jejuni.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q90",
+      "number": 90,
+      "stem": "Un paciente presenta debilidad muscular fluctuante que empeora con la actividad y mejora con el reposo, asociada a ptosis y diplopia. Cual es el diagnostico?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Miastenia gravis",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Parkinson",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Guillain Barre",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Esclerosis lateral amiotrofica obligatoria",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Meningitis",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Miastenia gravis",
+      "explanation": "La miastenia gravis produce debilidad muscular fatigable que empeora con el uso y mejora con el reposo. La ptosis y diplopia son manifestaciones frecuentes por afectacion de la musculatura ocular.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q91",
+      "number": 91,
+      "stem": "En atencion primaria, cual es uno de los principios fundamentales del MAIS FCI?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Atencion exclusivamente hospitalaria",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "Atencion integral centrada en la persona, familia y comunidad",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "C",
+          "text": "Atencion exclusivamente curativa",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Eliminacion de actividades preventivas",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Concentracion de todos los servicios en hospitales de tercer nivel",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Atencion integral centrada en la persona, familia y comunidad",
+      "explanation": "El MAIS-FCI se fundamenta en un modelo de atencion integral con enfoque familiar, comunitario e intercultural, que incorpora promocion, prevencion, recuperacion y rehabilitacion.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q92",
+      "number": 92,
+      "stem": "Cual es el objetivo fundamental de la promocion de la salud?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Tratar exclusivamente enfermedades avanzadas",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "Fortalecer capacidades de las personas y comunidades para mejorar y ejercer mayor control sobre su salud",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "C",
+          "text": "Reemplazar toda atencion clinica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Limitar el acceso a servicios",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Aumentar exclusivamente el numero de hospitales",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "B",
+      "officialAnswerText": "Fortalecer capacidades de las personas y comunidades para mejorar y ejercer mayor control sobre su salud",
+      "explanation": "La promocion de la salud busca fortalecer las capacidades individuales y colectivas y actuar sobre los determinantes de la salud para aumentar el control de las personas y comunidades sobre su bienestar.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q93",
+      "number": 93,
+      "stem": "En epidemiologia, que se entiende por prevalencia?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Proporcion de personas que presentan una enfermedad en una poblacion en un momento o periodo determinado",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Numero exclusivo de casos nuevos",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Riesgo relativo",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Mortalidad exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Sensibilidad de una prueba",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Proporcion de personas que presentan una enfermedad en una poblacion en un momento o periodo determinado",
+      "explanation": "La prevalencia cuantifica la proporcion de personas que presentan una enfermedad o condicion en una poblacion en un momento determinado o durante un periodo. La incidencia se refiere a casos nuevos.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q94",
+      "number": 94,
+      "stem": "Cual de las siguientes corresponde a una medida de prevencion primaria?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Vacunacion",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Rehabilitacion despues de un accidente cerebrovascular",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Dialisis por enfermedad renal terminal",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Tratamiento de secuelas permanentes",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Cuidados paliativos",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Vacunacion",
+      "explanation": "La prevencion primaria busca prevenir la aparicion de una enfermedad. La vacunacion es un ejemplo clasico de intervencion de prevencion primaria.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q95",
+      "number": 95,
+      "stem": "Cual es un ejemplo de prevencion secundaria?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Tamizaje para detectar una enfermedad en etapas tempranas",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Rehabilitacion",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Cuidados paliativos",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Tratamiento de secuelas permanentes",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Ventilacion mecanica",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Tamizaje para detectar una enfermedad en etapas tempranas",
+      "explanation": "La prevencion secundaria busca detectar enfermedades de manera temprana, generalmente mediante estrategias de tamizaje, para permitir una intervencion oportuna.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q96",
+      "number": 96,
+      "stem": "Cual es un ejemplo de prevencion terciaria?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Vacunacion",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "B",
+          "text": "Consejeria en una persona sana",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Rehabilitacion despues de un accidente cerebrovascular",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "D",
+          "text": "Tamizaje de una persona asintomatica",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Promocion de actividad fisica",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "C",
+      "officialAnswerText": "Rehabilitacion despues de un accidente cerebrovascular",
+      "explanation": "La prevencion terciaria busca reducir las consecuencias, discapacidad, complicaciones y secuelas de una enfermedad ya establecida. La rehabilitacion posterior a un accidente cerebrovascular es un ejemplo.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q97",
+      "number": 97,
+      "stem": "Un paciente adulto competente rechaza un procedimiento despues de recibir informacion suficiente sobre riesgos, beneficios y alternativas. Que principio bioetico adquiere especial relevancia?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Autonomia",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Beneficencia exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Paternalismo obligatorio",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Justicia exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Utilidad economica",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Autonomia",
+      "explanation": "El principio de autonomia reconoce el derecho de un paciente competente a tomar decisiones informadas sobre su atencion, incluyendo aceptar o rechazar intervenciones.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q98",
+      "number": 98,
+      "stem": "Un medico selecciona una intervencion porque espera producir un beneficio clinico para el paciente. Que principio bioetico representa principalmente?",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Beneficencia",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Autonomia",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Confidencialidad exclusivamente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Justicia penal",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Objecion de conciencia",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Beneficencia",
+      "explanation": "La beneficencia implica actuar buscando razonablemente el beneficio y bienestar del paciente, considerando tambien los posibles riesgos de la intervencion.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q99",
+      "number": 99,
+      "stem": "El principio de no maleficencia se refiere principalmente a:",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Evitar causar dano injustificado",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Obedecer siempre a la familia",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Administrar todos los tratamientos disponibles",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Ignorar los riesgos si existe algun beneficio",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Priorizar costos sobre seguridad",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Evitar causar dano injustificado",
+      "explanation": "La no maleficencia implica evitar causar dano injustificado al paciente y valorar los riesgos potenciales de las intervenciones en relacion con sus beneficios.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    },
+    {
+      "id": "pdf_q100",
+      "number": 100,
+      "stem": "El principio de justicia en bioetica se relaciona principalmente con:",
+      "options": [
+        {
+          "originalLabel": "A",
+          "text": "Distribucion equitativa y trato justo",
+          "isCorrect": true
+        },
+        {
+          "originalLabel": "B",
+          "text": "Ocultar informacion al paciente",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "C",
+          "text": "Administrar tratamientos sin consentimiento",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "D",
+          "text": "Priorizar exclusivamente al paciente con mayores recursos",
+          "isCorrect": false
+        },
+        {
+          "originalLabel": "E",
+          "text": "Evitar toda limitacion de recursos",
+          "isCorrect": false
+        }
+      ],
+      "officialAnswerLetter": "A",
+      "officialAnswerText": "Distribucion equitativa y trato justo",
+      "explanation": "El principio de justicia se relaciona con la equidad, el trato justo, la ausencia de discriminacion y la distribucion razonable de los recursos sanitarios.",
+      "valid": true,
+      "criticalIssues": [],
+      "revisionIssues": []
+    }
+  ]
+}

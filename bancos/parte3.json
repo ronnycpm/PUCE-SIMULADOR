@@ -1,0 +1,677 @@
+{
+  "app": "Simulador Méritos y Oposición PUCE",
+  "type": "question-batch",
+  "batch": "003",
+  "batchLabel": "preguntas-101-150-saneado",
+  "createdAt": "2026-10-07T00:00:00.000Z",
+  "source": "BANCO DE PREGUNTAS RECOPILADAS DE MERITOS Y OPOSICION PUCE.pdf",
+  "totalQuestions": 50,
+  "validCount": 47,
+  "reviewCount": 3,
+  "questions": [
+    {
+      "id": "pdf_q101",
+      "number": 101,
+      "stem": "Para que un consentimiento informado sea valido, cual de los siguientes elementos es fundamental?",
+      "options": [
+        {"originalLabel":"A","text":"Informacion suficiente, comprension, capacidad y voluntariedad","isCorrect":true},
+        {"originalLabel":"B","text":"Firma del documento como unico requisito","isCorrect":false},
+        {"originalLabel":"C","text":"Presencia obligatoria de un familiar","isCorrect":false},
+        {"originalLabel":"D","text":"Aceptacion obligatoria del tratamiento","isCorrect":false},
+        {"originalLabel":"E","text":"Ausencia de preguntas","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A",
+      "officialAnswerText":"Informacion suficiente, comprension, capacidad y voluntariedad",
+      "explanation":"El consentimiento informado es un proceso de comunicacion y decision, no simplemente un documento firmado.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q102","number":102,
+      "stem":"Una persona con depresion expresa ideacion suicida, tiene un plan definido y acceso inmediato al medio con el que pretende realizarlo. Cual es la prioridad?",
+      "options":[
+        {"originalLabel":"A","text":"Programar control rutinario en seis meses","isCorrect":false},
+        {"originalLabel":"B","text":"Establecer medidas inmediatas de seguridad y evaluacion urgente","isCorrect":true},
+        {"originalLabel":"C","text":"Evitar hablar del suicidio","isCorrect":false},
+        {"originalLabel":"D","text":"Dejarla sola","isCorrect":false},
+        {"originalLabel":"E","text":"Recomendar solamente ejercicio","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Establecer medidas inmediatas de seguridad y evaluacion urgente",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q103","number":103,
+      "stem":"Cual de los siguientes es un signo general de peligro utilizado por AIEPI?",
+      "options":[
+        {"originalLabel":"A","text":"Incapacidad para beber o lactar","isCorrect":true},
+        {"originalLabel":"B","text":"Rinorrea aislada","isCorrect":false},
+        {"originalLabel":"C","text":"Estornudos ocasionales","isCorrect":false},
+        {"originalLabel":"D","text":"Apetito conservado","isCorrect":false},
+        {"originalLabel":"E","text":"Tos ocasional sin dificultad respiratoria","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Incapacidad para beber o lactar",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q104","number":104,
+      "stem":"En un nino con diarrea aguda, cual es una intervencion fundamental para prevenir y tratar la deshidratacion cuando la via oral es posible?",
+      "options":[
+        {"originalLabel":"A","text":"Sales de rehidratacion oral","isCorrect":true},
+        {"originalLabel":"B","text":"Suspender todos los liquidos","isCorrect":false},
+        {"originalLabel":"C","text":"Antidiarreicos sistematicos","isCorrect":false},
+        {"originalLabel":"D","text":"Antibioticos en todos los casos","isCorrect":false},
+        {"originalLabel":"E","text":"Ayuno prolongado","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Sales de rehidratacion oral",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q105","number":105,
+      "stem":"Cual es el mecanismo fisiologico que permite la eficacia de las sales de rehidratacion oral?",
+      "options":[
+        {"originalLabel":"A","text":"Cotransporte intestinal de sodio y glucosa","isCorrect":true},
+        {"originalLabel":"B","text":"Inhibicion total de la absorcion intestinal","isCorrect":false},
+        {"originalLabel":"C","text":"Bloqueo de la bomba sodio potasio","isCorrect":false},
+        {"originalLabel":"D","text":"Secrecion activa de agua hacia la luz intestinal","isCorrect":false},
+        {"originalLabel":"E","text":"Inhibicion de todos los transportadores de glucosa","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Cotransporte intestinal de sodio y glucosa",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q106","number":106,
+      "stem":"En investigacion clinica, que significa que una prueba diagnostica tenga alta sensibilidad?",
+      "options":[
+        {"originalLabel":"A","text":"Tiene elevada capacidad para identificar correctamente a quienes presentan la enfermedad","isCorrect":true},
+        {"originalLabel":"B","text":"Identifica exclusivamente a quienes no tienen enfermedad","isCorrect":false},
+        {"originalLabel":"C","text":"Tiene siempre valor predictivo positivo de 100 por ciento","isCorrect":false},
+        {"originalLabel":"D","text":"No produce falsos positivos","isCorrect":false},
+        {"originalLabel":"E","text":"Nunca produce falsos negativos","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Tiene elevada capacidad para identificar correctamente a quienes presentan la enfermedad",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q107","number":107,
+      "stem":"Que significa que una prueba diagnostica tenga alta especificidad?",
+      "options":[
+        {"originalLabel":"A","text":"Identifica correctamente una elevada proporcion de personas que no presentan la enfermedad","isCorrect":true},
+        {"originalLabel":"B","text":"Detecta necesariamente a todos los enfermos","isCorrect":false},
+        {"originalLabel":"C","text":"Tiene siempre valor predictivo negativo de 100 por ciento","isCorrect":false},
+        {"originalLabel":"D","text":"No puede producir falsos negativos","isCorrect":false},
+        {"originalLabel":"E","text":"Es equivalente a prevalencia","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Identifica correctamente una elevada proporcion de personas que no presentan la enfermedad",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q108","number":108,
+      "stem":"Si aumenta considerablemente la prevalencia de una enfermedad y las caracteristicas de una prueba permanecen constantes, que ocurre generalmente con el valor predictivo positivo?",
+      "options":[
+        {"originalLabel":"A","text":"Disminuye","isCorrect":false},
+        {"originalLabel":"B","text":"Aumenta","isCorrect":true},
+        {"originalLabel":"C","text":"Permanece siempre exactamente igual","isCorrect":false},
+        {"originalLabel":"D","text":"Se transforma en sensibilidad","isCorrect":false},
+        {"originalLabel":"E","text":"Se transforma en especificidad","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Aumenta",
+      "explanation":"Los valores predictivos dependen de la prevalencia o probabilidad preprueba de enfermedad.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q109","number":109,
+      "stem":"En un ensayo clinico, la mortalidad es de 20 por ciento en el grupo control y 15 por ciento en el grupo tratado. Cual es la reduccion absoluta del riesgo?",
+      "options":[
+        {"originalLabel":"A","text":"5 por ciento","isCorrect":true},
+        {"originalLabel":"B","text":"15 por ciento","isCorrect":false},
+        {"originalLabel":"C","text":"20 por ciento","isCorrect":false},
+        {"originalLabel":"D","text":"25 por ciento","isCorrect":false},
+        {"originalLabel":"E","text":"35 por ciento","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"5 por ciento",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q110","number":110,
+      "stem":"Una variable confusora en un estudio epidemiologico puede:",
+      "options":[
+        {"originalLabel":"A","text":"Crear, ocultar o modificar aparentemente una asociacion entre exposicion y desenlace","isCorrect":true},
+        {"originalLabel":"B","text":"Eliminar automaticamente todos los sesgos","isCorrect":false},
+        {"originalLabel":"C","text":"Garantizar causalidad","isCorrect":false},
+        {"originalLabel":"D","text":"Ser siempre consecuencia del desenlace","isCorrect":false},
+        {"originalLabel":"E","text":"Impedir cualquier analisis estadistico","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Crear, ocultar o modificar aparentemente una asociacion entre exposicion y desenlace",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q111","number":111,
+      "stem":"Cual es una caracteristica fundamental de un factor de confusion en epidemiologia?",
+      "options":[
+        {"originalLabel":"A","text":"Se asocia con la exposicion y con el desenlace y no forma parte de la cadena causal entre ambos","isCorrect":true},
+        {"originalLabel":"B","text":"Siempre es el desenlace estudiado","isCorrect":false},
+        {"originalLabel":"C","text":"Siempre es una variable aleatoria","isCorrect":false},
+        {"originalLabel":"D","text":"Solo aparece en ensayos clinicos","isCorrect":false},
+        {"originalLabel":"E","text":"No puede controlarse mediante metodos estadisticos","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Se asocia con la exposicion y con el desenlace y no forma parte de la cadena causal entre ambos",
+      "explanation":"",
+      "valid":false,
+      "criticalIssues":["Numeracion desalineada respecto del PDF: la pregunta 111 del banco real trata de riesgo relativo con IC 95% (Respuesta A), no de factor de confusion. Verificar contra el papel antes de usar."],
+      "revisionIssues":[]
+    },
+    {
+      "id":"pdf_q112","number":112,
+      "stem":"Cual de las siguientes estrategias puede utilizarse para controlar la confusion en un estudio epidemiologico?",
+      "options":[
+        {"originalLabel":"A","text":"Aleatorizacion, restriccion, estratificacion o ajuste multivariable","isCorrect":true},
+        {"originalLabel":"B","text":"Eliminar siempre a todos los participantes","isCorrect":false},
+        {"originalLabel":"C","text":"Ignorar las variables clinicamente relevantes","isCorrect":false},
+        {"originalLabel":"D","text":"Utilizar exclusivamente el valor p","isCorrect":false},
+        {"originalLabel":"E","text":"Evitar definir la exposicion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Aleatorizacion, restriccion, estratificacion o ajuste multivariable",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q113","number":113,
+      "stem":"Un investigador selecciona pacientes con una enfermedad y sujetos sin la enfermedad y posteriormente investiga exposiciones previas. Que tipo de estudio es?",
+      "options":[
+        {"originalLabel":"A","text":"Cohorte","isCorrect":false},
+        {"originalLabel":"B","text":"Casos y controles","isCorrect":true},
+        {"originalLabel":"C","text":"Ensayo clinico","isCorrect":false},
+        {"originalLabel":"D","text":"Estudio experimental animal","isCorrect":false},
+        {"originalLabel":"E","text":"Serie temporal","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Casos y controles",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q114","number":114,
+      "stem":"Un investigador selecciona personas expuestas y no expuestas y las sigue para determinar la aparicion de una enfermedad. Que tipo de estudio es?",
+      "options":[
+        {"originalLabel":"A","text":"Casos y controles","isCorrect":false},
+        {"originalLabel":"B","text":"Cohorte","isCorrect":true},
+        {"originalLabel":"C","text":"Serie de casos","isCorrect":false},
+        {"originalLabel":"D","text":"Estudio transversal","isCorrect":false},
+        {"originalLabel":"E","text":"Revision narrativa","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Cohorte",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q115","number":115,
+      "stem":"En un estudio transversal se miden exposicion y enfermedad aproximadamente en el mismo momento. Cual es una de sus principales limitaciones para establecer causalidad?",
+      "options":[
+        {"originalLabel":"A","text":"Dificultad para establecer temporalidad","isCorrect":true},
+        {"originalLabel":"B","text":"Nunca permite medir prevalencia","isCorrect":false},
+        {"originalLabel":"C","text":"Requiere seguimiento durante decadas","isCorrect":false},
+        {"originalLabel":"D","text":"No permite estudiar mas de una variable","isCorrect":false},
+        {"originalLabel":"E","text":"Siempre requiere aleatorizacion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Dificultad para establecer temporalidad",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q116","number":116,
+      "stem":"Cual es la principal ventaja de la aleatorizacion en un ensayo clinico?",
+      "options":[
+        {"originalLabel":"A","text":"Favorecer una distribucion comparable de factores pronosticos conocidos y desconocidos entre los grupos","isCorrect":true},
+        {"originalLabel":"B","text":"Eliminar completamente todos los sesgos","isCorrect":false},
+        {"originalLabel":"C","text":"Garantizar que todos respondan al tratamiento","isCorrect":false},
+        {"originalLabel":"D","text":"Eliminar la necesidad de calcular el tamano muestral","isCorrect":false},
+        {"originalLabel":"E","text":"Garantizar validez externa universal","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Favorecer una distribucion comparable de factores pronosticos conocidos y desconocidos entre los grupos",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q117","number":117,
+      "stem":"Un investigador desea estudiar la relacion entre varias variables independientes y un desenlace dicotomico definido como enfermedad presente o ausente. Que tecnica estadistica es apropiada?",
+      "options":[
+        {"originalLabel":"A","text":"Regresion logistica","isCorrect":true},
+        {"originalLabel":"B","text":"Regresion lineal exclusivamente","isCorrect":false},
+        {"originalLabel":"C","text":"Correlacion de Pearson exclusivamente","isCorrect":false},
+        {"originalLabel":"D","text":"Prueba t exclusivamente","isCorrect":false},
+        {"originalLabel":"E","text":"ANOVA exclusivamente","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Regresion logistica",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q118","number":118,
+      "stem":"Que medida epidemiologica representa la proporcion de individuos inicialmente libres de enfermedad que desarrollan el evento durante un periodo determinado?",
+      "options":[
+        {"originalLabel":"A","text":"Incidencia acumulada","isCorrect":true},
+        {"originalLabel":"B","text":"Prevalencia","isCorrect":false},
+        {"originalLabel":"C","text":"Odds ratio","isCorrect":false},
+        {"originalLabel":"D","text":"Especificidad","isCorrect":false},
+        {"originalLabel":"E","text":"Valor predictivo positivo","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Incidencia acumulada",
+      "explanation":"La incidencia acumulada estima el riesgo de desarrollar un evento durante un periodo definido.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q119","number":119,
+      "stem":"En un paciente con tuberculosis pulmonar activa, por que se utilizan combinaciones de medicamentos?",
+      "options":[
+        {"originalLabel":"A","text":"Para disminuir la seleccion de resistencia y actuar sobre diferentes poblaciones bacterianas","isCorrect":true},
+        {"originalLabel":"B","text":"Porque todos los medicamentos tienen exactamente el mismo mecanismo","isCorrect":false},
+        {"originalLabel":"C","text":"Para eliminar la necesidad de adherencia","isCorrect":false},
+        {"originalLabel":"D","text":"Porque la monoterapia siempre cura mas rapidamente","isCorrect":false},
+        {"originalLabel":"E","text":"Para evitar toda reaccion adversa","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Para disminuir la seleccion de resistencia y actuar sobre diferentes poblaciones bacterianas",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q120","number":120,
+      "stem":"En un paciente con sospecha o diagnostico de tuberculosis, cual es una medida importante desde el punto de vista de salud publica?",
+      "options":[
+        {"originalLabel":"A","text":"Evaluacion de contactos y medidas de control de transmision segun normativa","isCorrect":true},
+        {"originalLabel":"B","text":"Evitar evaluar a los convivientes","isCorrect":false},
+        {"originalLabel":"C","text":"Suspender el seguimiento cuando desaparezca la fiebre","isCorrect":false},
+        {"originalLabel":"D","text":"Utilizar antibioticos comunes","isCorrect":false},
+        {"originalLabel":"E","text":"Mantener el diagnostico fuera del sistema de vigilancia","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Evaluacion de contactos y medidas de control de transmision segun normativa",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q121","number":121,
+      "stem":"Un paciente presenta tos productiva, fiebre, dolor pleuritico y un infiltrado pulmonar nuevo en la radiografia de torax. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Neumonia adquirida en la comunidad","isCorrect":true},
+        {"originalLabel":"B","text":"EPOC estable","isCorrect":false},
+        {"originalLabel":"C","text":"Asma","isCorrect":false},
+        {"originalLabel":"D","text":"Tuberculosis latente","isCorrect":false},
+        {"originalLabel":"E","text":"Bronquitis cronica sin infeccion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Neumonia adquirida en la comunidad",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q122","number":122,
+      "stem":"Un paciente presenta tos cronica, expectoracion, perdida de peso, sudoracion nocturna y contacto con un paciente con tuberculosis. Cual enfermedad debe descartarse prioritariamente?",
+      "options":[
+        {"originalLabel":"A","text":"Tuberculosis pulmonar","isCorrect":true},
+        {"originalLabel":"B","text":"Asma","isCorrect":false},
+        {"originalLabel":"C","text":"Rinitis alergica","isCorrect":false},
+        {"originalLabel":"D","text":"Sinusitis","isCorrect":false},
+        {"originalLabel":"E","text":"Otitis media","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Tuberculosis pulmonar",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q123","number":123,
+      "stem":"Un paciente presenta disuria, polaquiuria y urgencia urinaria sin fiebre ni dolor lumbar. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Cistitis aguda","isCorrect":true},
+        {"originalLabel":"B","text":"Pielonefritis","isCorrect":false},
+        {"originalLabel":"C","text":"Prostatitis","isCorrect":false},
+        {"originalLabel":"D","text":"Glomerulonefritis","isCorrect":false},
+        {"originalLabel":"E","text":"Sindrome nefrotico","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Cistitis aguda",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q124","number":124,
+      "stem":"Una paciente presenta fiebre, escalofrios, disuria y dolor en flanco con punopercusion lumbar positiva. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Pielonefritis aguda","isCorrect":true},
+        {"originalLabel":"B","text":"Cistitis simple","isCorrect":false},
+        {"originalLabel":"C","text":"Vaginitis","isCorrect":false},
+        {"originalLabel":"D","text":"Glomerulonefritis","isCorrect":false},
+        {"originalLabel":"E","text":"Sindrome nefrotico","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Pielonefritis aguda",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q125","number":125,
+      "stem":"Un hombre presenta fiebre, disuria, dificultad miccional y dolor perineal. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Prostatitis bacteriana aguda","isCorrect":true},
+        {"originalLabel":"B","text":"Hiperplasia prostatica benigna","isCorrect":false},
+        {"originalLabel":"C","text":"Cancer de prostata","isCorrect":false},
+        {"originalLabel":"D","text":"Cistitis asintomatica","isCorrect":false},
+        {"originalLabel":"E","text":"Litiasis vesicular","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Prostatitis bacteriana aguda",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q126","number":126,
+      "stem":"Un paciente presenta colico renal intenso con hematuria. Cual es el estudio de imagen de mayor rendimiento en un adulto no embarazado cuando se requiere confirmar litiasis ureteral?",
+      "options":[
+        {"originalLabel":"A","text":"Tomografia sin contraste","isCorrect":true},
+        {"originalLabel":"B","text":"Radiografia de torax","isCorrect":false},
+        {"originalLabel":"C","text":"Resonancia cerebral","isCorrect":false},
+        {"originalLabel":"D","text":"Colonoscopia","isCorrect":false},
+        {"originalLabel":"E","text":"Ecocardiograma","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Tomografia sin contraste",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q127","number":127,
+      "stem":"Cual de los siguientes farmacos antineoplasicos se asocia caracteristicamente con nefrotoxicidad?",
+      "options":[
+        {"originalLabel":"A","text":"Cisplatino","isCorrect":true},
+        {"originalLabel":"B","text":"Vincristina","isCorrect":false},
+        {"originalLabel":"C","text":"Bleomicina","isCorrect":false},
+        {"originalLabel":"D","text":"Tamoxifeno","isCorrect":false},
+        {"originalLabel":"E","text":"Trastuzumab","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Cisplatino",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q128","number":128,
+      "stem":"Un paciente presenta edema generalizado, proteinuria importante e hipoalbuminemia. Cual mecanismo contribuye directamente al edema?",
+      "options":[
+        {"originalLabel":"A","text":"Disminucion de la presion oncotica plasmatica","isCorrect":true},
+        {"originalLabel":"B","text":"Aumento de la presion oncotica plasmatica","isCorrect":false},
+        {"originalLabel":"C","text":"Disminucion del agua corporal","isCorrect":false},
+        {"originalLabel":"D","text":"Aumento de hemoglobina","isCorrect":false},
+        {"originalLabel":"E","text":"Hiperventilacion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Disminucion de la presion oncotica plasmatica",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q129","number":129,
+      "stem":"Un paciente presenta poliuria, polidipsia, hipernatremia y orina marcadamente diluida. Cual trastorno debe considerarse?",
+      "options":[
+        {"originalLabel":"A","text":"Diabetes insipida","isCorrect":true},
+        {"originalLabel":"B","text":"SIADH","isCorrect":false},
+        {"originalLabel":"C","text":"Sindrome nefrotico","isCorrect":false},
+        {"originalLabel":"D","text":"Glomerulonefritis","isCorrect":false},
+        {"originalLabel":"E","text":"Hiperaldosteronismo exclusivamente","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Diabetes insipida",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q130","number":130,
+      "stem":"Un paciente presenta hiponatremia, osmolaridad plasmatica disminuida, orina inapropiadamente concentrada y aparente euvolemia. Cual diagnostico debe considerarse?",
+      "options":[
+        {"originalLabel":"A","text":"SIADH","isCorrect":true},
+        {"originalLabel":"B","text":"Diabetes insipida","isCorrect":false},
+        {"originalLabel":"C","text":"Hiperaldosteronismo","isCorrect":false},
+        {"originalLabel":"D","text":"Diabetes mellitus","isCorrect":false},
+        {"originalLabel":"E","text":"Hipernatremia hipovolemica","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"SIADH",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q131","number":131,
+      "stem":"Un paciente presenta potasio de 7.2 mEq/L y cambios electrocardiograficos compatibles con hiperpotasemia. Cual es la prioridad farmacologica inmediata?",
+      "options":[
+        {"originalLabel":"A","text":"Calcio intravenoso","isCorrect":true},
+        {"originalLabel":"B","text":"Potasio intravenoso","isCorrect":false},
+        {"originalLabel":"C","text":"Solucion hipotonica","isCorrect":false},
+        {"originalLabel":"D","text":"Diuretico tiazidico exclusivamente","isCorrect":false},
+        {"originalLabel":"E","text":"Bicarbonato oral como unica medida","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Calcio intravenoso",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q132","number":132,
+      "stem":"Un paciente con hiponatremia presenta convulsiones y deterioro neurologico agudo. Cual tratamiento debe considerarse?",
+      "options":[
+        {"originalLabel":"A","text":"Solucion salina hipertonica administrada de manera controlada","isCorrect":true},
+        {"originalLabel":"B","text":"Agua libre","isCorrect":false},
+        {"originalLabel":"C","text":"Solucion glucosada exclusivamente","isCorrect":false},
+        {"originalLabel":"D","text":"Diuretico tiazidico","isCorrect":false},
+        {"originalLabel":"E","text":"No realizar tratamiento","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Solucion salina hipertonica administrada de manera controlada",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q133","number":133,
+      "stem":"Un paciente presenta dolor toracico opresivo y elevacion persistente del segmento ST en derivaciones contiguas. Cual es el principio terapeutico fundamental?",
+      "options":[
+        {"originalLabel":"A","text":"Evaluar inmediatamente una estrategia de reperfusion","isCorrect":true},
+        {"originalLabel":"B","text":"Esperar 24 horas","isCorrect":false},
+        {"originalLabel":"C","text":"Realizar una prueba de esfuerzo","isCorrect":false},
+        {"originalLabel":"D","text":"Administrar solamente analgesicos","isCorrect":false},
+        {"originalLabel":"E","text":"Solicitar control ambulatorio","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Evaluar inmediatamente una estrategia de reperfusion",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q134","number":134,
+      "stem":"Un paciente con fibrilacion auricular presenta frecuencia ventricular elevada, hipotension, dolor toracico y alteracion del estado mental. Cual es la conducta general?",
+      "options":[
+        {"originalLabel":"A","text":"Cardioversion sincronizada","isCorrect":true},
+        {"originalLabel":"B","text":"Observacion","isCorrect":false},
+        {"originalLabel":"C","text":"Prueba de esfuerzo","isCorrect":false},
+        {"originalLabel":"D","text":"Atropina","isCorrect":false},
+        {"originalLabel":"E","text":"Control ambulatorio","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Cardioversion sincronizada",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q135","number":135,
+      "stem":"Un paciente presenta bradicardia con hipotension, dolor toracico y alteracion del estado mental. Cual es el medicamento inicial utilizado habitualmente en el algoritmo ACLS?",
+      "options":[
+        {"originalLabel":"A","text":"Atropina","isCorrect":true},
+        {"originalLabel":"B","text":"Adenosina","isCorrect":false},
+        {"originalLabel":"C","text":"Amiodarona","isCorrect":false},
+        {"originalLabel":"D","text":"Verapamilo","isCorrect":false},
+        {"originalLabel":"E","text":"Lidocaina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Atropina",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q136","number":136,
+      "stem":"Un paciente presenta taquicardia regular de complejo estrecho y se encuentra hemodinamicamente estable. Cual es una intervencion inicial apropiada?",
+      "options":[
+        {"originalLabel":"A","text":"Maniobras vagales","isCorrect":true},
+        {"originalLabel":"B","text":"Desfibrilacion inmediata","isCorrect":false},
+        {"originalLabel":"C","text":"Atropina","isCorrect":false},
+        {"originalLabel":"D","text":"RCP","isCorrect":false},
+        {"originalLabel":"E","text":"Adrenalina intramuscular","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Maniobras vagales",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q137","number":137,
+      "stem":"Un paciente en paro cardiaco presenta fibrilacion ventricular. Se realiza una descarga. Cual es la conducta inmediatamente posterior?",
+      "options":[
+        {"originalLabel":"A","text":"Reiniciar inmediatamente RCP comenzando por compresiones","isCorrect":true},
+        {"originalLabel":"B","text":"Comprobar el pulso durante un minuto","isCorrect":false},
+        {"originalLabel":"C","text":"Administrar atropina","isCorrect":false},
+        {"originalLabel":"D","text":"Esperar que aparezca ritmo sinusal","isCorrect":false},
+        {"originalLabel":"E","text":"Suspender las maniobras","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Reiniciar inmediatamente RCP comenzando por compresiones",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q138","number":138,
+      "stem":"Un paciente politraumatizado presenta disnea severa, hipotension y ausencia unilateral de murmullo vesicular. Se sospecha neumotorax a tension. Cual es la conducta?",
+      "options":[
+        {"originalLabel":"A","text":"Descompresion inmediata sin retrasar el tratamiento por una radiografia","isCorrect":true},
+        {"originalLabel":"B","text":"Esperar tomografia","isCorrect":false},
+        {"originalLabel":"C","text":"Administrar antibioticos y observar","isCorrect":false},
+        {"originalLabel":"D","text":"Realizar fisioterapia","isCorrect":false},
+        {"originalLabel":"E","text":"Solicitar espirometria","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Descompresion inmediata sin retrasar el tratamiento por una radiografia",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q139","number":139,
+      "stem":"Un paciente politraumatizado presenta hipotension y una pelvis inestable. Cual debe considerarse una fuente potencialmente importante de hemorragia?",
+      "options":[
+        {"originalLabel":"A","text":"Retroperitoneo asociado a fractura pelvica","isCorrect":true},
+        {"originalLabel":"B","text":"Oido externo","isCorrect":false},
+        {"originalLabel":"C","text":"Conjuntiva","isCorrect":false},
+        {"originalLabel":"D","text":"Cavidad nasal exclusivamente","isCorrect":false},
+        {"originalLabel":"E","text":"Tejido celular subcutaneo del brazo","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Retroperitoneo asociado a fractura pelvica",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q140","number":140,
+      "stem":"En un paciente traumatizado, que significa la letra D de la evaluacion primaria ABCDE?",
+      "options":[
+        {"originalLabel":"A","text":"Disability o evaluacion neurologica","isCorrect":true},
+        {"originalLabel":"B","text":"Diuresis","isCorrect":false},
+        {"originalLabel":"C","text":"Dolor","isCorrect":false},
+        {"originalLabel":"D","text":"Drenaje","isCorrect":false},
+        {"originalLabel":"E","text":"Dieta","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Disability o evaluacion neurologica",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q141","number":141,
+      "stem":"En la evaluacion primaria ABCDE del trauma, que significa la letra E?",
+      "options":[
+        {"originalLabel":"A","text":"Exposure y control del ambiente","isCorrect":true},
+        {"originalLabel":"B","text":"Ecocardiograma","isCorrect":false},
+        {"originalLabel":"C","text":"Electrolitos","isCorrect":false},
+        {"originalLabel":"D","text":"Electroencefalograma","isCorrect":false},
+        {"originalLabel":"E","text":"Ejercicio","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Exposure y control del ambiente",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q142","number":142,
+      "stem":"Cual es el parametro de laboratorio mas util para evaluar los depositos corporales de hierro en una paciente con sospecha de anemia ferropenica?",
+      "options":[
+        {"originalLabel":"A","text":"Ferritina serica","isCorrect":true},
+        {"originalLabel":"B","text":"Hematocrito","isCorrect":false},
+        {"originalLabel":"C","text":"Bilirrubina indirecta","isCorrect":false},
+        {"originalLabel":"D","text":"Reticulocitos","isCorrect":false},
+        {"originalLabel":"E","text":"Haptoglobina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Ferritina serica",
+      "explanation":"",
+      "valid":false,
+      "criticalIssues":["El generador previo confeso reemplazo de la pregunta 142 original del banco. Verificar contra el papel la 142 real antes de usar."],
+      "revisionIssues":[]
+    },
+    {
+      "id":"pdf_q143","number":143,
+      "stem":"Cual de las siguientes situaciones corresponde a una emergencia hipertensiva?",
+      "options":[
+        {"originalLabel":"A","text":"Presion arterial severamente elevada asociada a dano agudo de organo blanco","isCorrect":true},
+        {"originalLabel":"B","text":"Presion de 150/90 mmHg sin sintomas","isCorrect":false},
+        {"originalLabel":"C","text":"Hipertension cronica estable","isCorrect":false},
+        {"originalLabel":"D","text":"Elevacion aislada por ansiedad sin dano organico","isCorrect":false},
+        {"originalLabel":"E","text":"Presion elevada despues de ejercicio","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Presion arterial severamente elevada asociada a dano agudo de organo blanco",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q144","number":144,
+      "stem":"Un paciente hipertenso presenta dolor toracico intenso de inicio subito irradiado hacia la espalda. Cual diagnostico grave debe descartarse?",
+      "options":[
+        {"originalLabel":"A","text":"Diseccion aortica","isCorrect":true},
+        {"originalLabel":"B","text":"Gastritis simple","isCorrect":false},
+        {"originalLabel":"C","text":"Costocondritis exclusivamente","isCorrect":false},
+        {"originalLabel":"D","text":"Rinitis","isCorrect":false},
+        {"originalLabel":"E","text":"Colelitiasis asintomatica","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Diseccion aortica",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q145","number":145,
+      "stem":"Un paciente presenta disnea progresiva, ortopnea, edema de miembros inferiores y estertores bibasales. Cual diagnostico es mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Insuficiencia cardiaca","isCorrect":true},
+        {"originalLabel":"B","text":"Rinitis alergica","isCorrect":false},
+        {"originalLabel":"C","text":"Otitis media","isCorrect":false},
+        {"originalLabel":"D","text":"Gastroenteritis","isCorrect":false},
+        {"originalLabel":"E","text":"Apendicitis","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Insuficiencia cardiaca",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q146","number":146,
+      "stem":"Cual es la fraccion de eyeccion ventricular izquierda considerada habitualmente preservada?",
+      "options":[
+        {"originalLabel":"A","text":"10 por ciento","isCorrect":false},
+        {"originalLabel":"B","text":"20 por ciento","isCorrect":false},
+        {"originalLabel":"C","text":"30 por ciento","isCorrect":false},
+        {"originalLabel":"D","text":"50 por ciento o mayor aproximadamente","isCorrect":true},
+        {"originalLabel":"E","text":"5 por ciento","isCorrect":false}
+      ],
+      "officialAnswerLetter":"D","officialAnswerText":"50 por ciento o mayor aproximadamente",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q147","number":147,
+      "stem":"Cual es la principal causa fisiopatologica de edema pulmonar cardiogenico?",
+      "options":[
+        {"originalLabel":"A","text":"Elevacion de la presion hidrostatica capilar pulmonar","isCorrect":true},
+        {"originalLabel":"B","text":"Disminucion de la presion atmosferica","isCorrect":false},
+        {"originalLabel":"C","text":"Aumento de hemoglobina","isCorrect":false},
+        {"originalLabel":"D","text":"Hiperventilacion","isCorrect":false},
+        {"originalLabel":"E","text":"Disminucion de la permeabilidad vascular","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Elevacion de la presion hidrostatica capilar pulmonar",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q148","number":148,
+      "stem":"Un paciente presenta fiebre, tos productiva y consolidacion pulmonar. Que tipo de sonido puede encontrarse sobre la zona consolidada?",
+      "options":[
+        {"originalLabel":"A","text":"Soplo tubario","isCorrect":true},
+        {"originalLabel":"B","text":"Ausencia obligatoria de cualquier sonido","isCorrect":false},
+        {"originalLabel":"C","text":"Estridor exclusivamente","isCorrect":false},
+        {"originalLabel":"D","text":"Roce pericardico","isCorrect":false},
+        {"originalLabel":"E","text":"Soplo carotideo","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Soplo tubario",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q149","number":149,
+      "stem":"Un paciente con asma presenta episodios recurrentes de disnea, sibilancias, tos y opresion toracica con variabilidad de los sintomas. Cual caracteristica fisiopatologica es fundamental?",
+      "options":[
+        {"originalLabel":"A","text":"Obstruccion variable del flujo aereo","isCorrect":true},
+        {"originalLabel":"B","text":"Obstruccion fija irreversible en todos los pacientes","isCorrect":false},
+        {"originalLabel":"C","text":"Fibrosis pulmonar obligatoria","isCorrect":false},
+        {"originalLabel":"D","text":"Shunt cardiaco","isCorrect":false},
+        {"originalLabel":"E","text":"Derrame pleural","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Obstruccion variable del flujo aereo",
+      "explanation":"","valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q150","number":150,
+      "stem":"En una exacerbacion de asma, cual es una opcion de tratamiento inhalado utilizada para aliviar rapidamente el broncoespasmo?",
+      "options":[
+        {"originalLabel":"A","text":"Broncodilatador inhalado de accion rapida","isCorrect":true},
+        {"originalLabel":"B","text":"Antibiotico oral obligatoriamente","isCorrect":false},
+        {"originalLabel":"C","text":"Anticoagulante","isCorrect":false},
+        {"originalLabel":"D","text":"Diuretico","isCorrect":false},
+        {"originalLabel":"E","text":"Betabloqueador","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Broncodilatador inhalado de accion rapida",
+      "explanation":"",
+      "valid":false,
+      "criticalIssues":["El generador previo confeso reformulacion del enunciado original del banco. Verificar contra el papel la 150 real antes de usar."],
+      "revisionIssues":[]
+    }
+  ]
+}

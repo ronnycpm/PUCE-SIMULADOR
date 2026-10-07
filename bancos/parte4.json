@@ -1,0 +1,718 @@
+{
+  "app": "Simulador Méritos y Oposición PUCE",
+  "type": "question-batch",
+  "batch": "004",
+  "batchLabel": "preguntas-151-200-auditado-contra-PDF",
+  "createdAt": "2026-10-07T00:00:00.000Z",
+  "source": "BANCO DE PREGUNTAS RECOPILADAS DE MERITOS Y OPOSICION PUCE.pdf",
+  "totalQuestions": 50,
+  "validCount": 48,
+  "reviewCount": 2,
+  "questions": [
+    {
+      "id": "pdf_q151", "number": 151,
+      "stem": "Una mujer embarazada de 28 semanas presenta hemoglobina de 9.8 g/dL. De acuerdo con el enfoque de anemia durante el embarazo, cual es la causa mas frecuente?",
+      "options": [
+        {"originalLabel":"A","text":"Deficiencia de hierro","isCorrect":true},
+        {"originalLabel":"B","text":"Deficiencia de vitamina B12","isCorrect":false},
+        {"originalLabel":"C","text":"Hemolisis autoinmune","isCorrect":false},
+        {"originalLabel":"D","text":"Aplasia medular","isCorrect":false},
+        {"originalLabel":"E","text":"Talasemia mayor","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Deficiencia de hierro",
+      "explanation":"La deficiencia de hierro constituye la causa mas frecuente de anemia durante el embarazo.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q152","number":152,
+      "stem":"Cual es el parametro de laboratorio mas util para evaluar los depositos corporales de hierro en una paciente con sospecha de anemia ferropenica?",
+      "options":[
+        {"originalLabel":"A","text":"Ferritina serica","isCorrect":true},
+        {"originalLabel":"B","text":"Hematocrito","isCorrect":false},
+        {"originalLabel":"C","text":"Bilirrubina indirecta","isCorrect":false},
+        {"originalLabel":"D","text":"Reticulocitos","isCorrect":false},
+        {"originalLabel":"E","text":"Haptoglobina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Ferritina serica",
+      "explanation":"La disminucion de ferritina refleja agotamiento de los depositos de hierro, aunque debe interpretarse considerando que tambien es un reactante de fase aguda.",
+      "valid":true,"criticalIssues":[],
+      "revisionIssues":["Segun el PDF, la 152 real es la de ferritina/depositos de hierro (Resp. A). Coincide en enunciado con la pregunta que en el bloque 101-150 figuraba como 142; la app deduplica por enunciado al unir lotes. Cotejar numeracion 142/152 contra el papel."]
+    },
+    {
+      "id":"pdf_q153","number":153,
+      "stem":"Cual es el patron hematologico caracteristico de la anemia ferropenica establecida?",
+      "options":[
+        {"originalLabel":"A","text":"Macrocitosis e hipercromia","isCorrect":false},
+        {"originalLabel":"B","text":"Microcitosis e hipocromia","isCorrect":true},
+        {"originalLabel":"C","text":"Normocitosis con reticulocitosis intensa","isCorrect":false},
+        {"originalLabel":"D","text":"Pancitopenia obligatoria","isCorrect":false},
+        {"originalLabel":"E","text":"Leucocitosis con macrocitosis","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Microcitosis e hipocromia",
+      "explanation":"La deficiencia progresiva de hierro produce disminucion del volumen corpuscular medio y de la hemoglobina corpuscular.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q154","number":154,
+      "stem":"Durante el embarazo normal, que ocurre con los requerimientos de hierro?",
+      "options":[
+        {"originalLabel":"A","text":"Disminuyen","isCorrect":false},
+        {"originalLabel":"B","text":"Permanecen sin cambios","isCorrect":false},
+        {"originalLabel":"C","text":"Aumentan","isCorrect":true},
+        {"originalLabel":"D","text":"Desaparecen durante el tercer trimestre","isCorrect":false},
+        {"originalLabel":"E","text":"Dependen exclusivamente de la edad materna","isCorrect":false}
+      ],
+      "officialAnswerLetter":"C","officialAnswerText":"Aumentan",
+      "explanation":"El crecimiento fetal y placentario y la expansion de la masa eritrocitaria materna incrementan los requerimientos de hierro.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q155","number":155,
+      "stem":"Una embarazada presenta hemoglobina disminuida, VCM bajo y ferritina disminuida. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Anemia ferropenica","isCorrect":true},
+        {"originalLabel":"B","text":"Anemia megaloblastica","isCorrect":false},
+        {"originalLabel":"C","text":"Esferocitosis hereditaria","isCorrect":false},
+        {"originalLabel":"D","text":"Anemia hemolitica autoinmune","isCorrect":false},
+        {"originalLabel":"E","text":"Aplasia medular","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Anemia ferropenica",
+      "explanation":"La combinacion de anemia microcitica y ferritina baja es altamente compatible con deficiencia de hierro.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q156","number":156,
+      "stem":"Una embarazada presenta nausea y vomito persistentes, perdida de peso, deshidratacion y alteraciones electroliticas. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Hiperemesis gravidica","isCorrect":true},
+        {"originalLabel":"B","text":"Preeclampsia","isCorrect":false},
+        {"originalLabel":"C","text":"Embarazo ectopico","isCorrect":false},
+        {"originalLabel":"D","text":"Corioamnionitis","isCorrect":false},
+        {"originalLabel":"E","text":"Placenta previa","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Hiperemesis gravidica",
+      "explanation":"Se diferencia de la nausea habitual del embarazo por repercusion sistemica, perdida ponderal y deshidratacion.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q157","number":157,
+      "stem":"Una embarazada presenta sangrado vaginal rojo brillante, indoloro, durante el tercer trimestre. Cual es el diagnostico que debe considerarse?",
+      "options":[
+        {"originalLabel":"A","text":"Placenta previa","isCorrect":true},
+        {"originalLabel":"B","text":"Desprendimiento prematuro de placenta","isCorrect":false},
+        {"originalLabel":"C","text":"Rotura uterina","isCorrect":false},
+        {"originalLabel":"D","text":"Corioamnionitis","isCorrect":false},
+        {"originalLabel":"E","text":"Embarazo ectopico","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Placenta previa",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["El fragmento del PDF disponible no trae el Comentario de esta pregunta. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q158","number":158,
+      "stem":"Una embarazada de 36 semanas presenta sangrado vaginal asociado a dolor abdominal intenso, hipertonia uterina y sufrimiento fetal. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Placenta previa","isCorrect":false},
+        {"originalLabel":"B","text":"Desprendimiento prematuro de placenta","isCorrect":true},
+        {"originalLabel":"C","text":"Vasa previa asintomatica","isCorrect":false},
+        {"originalLabel":"D","text":"Polihidramnios","isCorrect":false},
+        {"originalLabel":"E","text":"Embarazo molar","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Desprendimiento prematuro de placenta",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar enunciado, opciones y Comentario contra el papel."]
+    },
+    {
+      "id":"pdf_q159","number":159,
+      "stem":"Una mujer en edad fertil presenta amenorrea, dolor abdominal unilateral y sangrado vaginal. Cual diagnostico debe descartarse prioritariamente?",
+      "options":[
+        {"originalLabel":"A","text":"Embarazo ectopico","isCorrect":true},
+        {"originalLabel":"B","text":"Endometriosis","isCorrect":false},
+        {"originalLabel":"C","text":"Dismenorrea primaria","isCorrect":false},
+        {"originalLabel":"D","text":"Vaginitis","isCorrect":false},
+        {"originalLabel":"E","text":"Miomatosis asintomatica","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Embarazo ectopico",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q160","number":160,
+      "stem":"Cual es la localizacion mas frecuente de un embarazo ectopico?",
+      "options":[
+        {"originalLabel":"A","text":"Ampolla de la trompa uterina","isCorrect":true},
+        {"originalLabel":"B","text":"Ovario","isCorrect":false},
+        {"originalLabel":"C","text":"Cervix","isCorrect":false},
+        {"originalLabel":"D","text":"Cavidad abdominal","isCorrect":false},
+        {"originalLabel":"E","text":"Cicatriz de cesarea","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Ampolla de la trompa uterina",
+      "explanation":"La mayor parte de los embarazos ectopicos se localizan en la trompa de Falopio y la ampolla es el sitio mas frecuente.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q161","number":161,
+      "stem":"Una embarazada presenta fiebre, dolor uterino, taquicardia materna y liquido amniotico maloliente despues de ruptura prolongada de membranas. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Corioamnionitis","isCorrect":true},
+        {"originalLabel":"B","text":"Placenta previa","isCorrect":false},
+        {"originalLabel":"C","text":"Eclampsia","isCorrect":false},
+        {"originalLabel":"D","text":"Embarazo ectopico","isCorrect":false},
+        {"originalLabel":"E","text":"Hiperemesis gravidica","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Corioamnionitis",
+      "explanation":"La infeccion intraamniotica debe sospecharse ante fiebre materna acompanada de hallazgos clinicos compatibles.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q162","number":162,
+      "stem":"Que hormona es detectada por las pruebas habituales de embarazo?",
+      "options":[
+        {"originalLabel":"A","text":"Gonadotropina corionica humana","isCorrect":true},
+        {"originalLabel":"B","text":"Hormona luteinizante","isCorrect":false},
+        {"originalLabel":"C","text":"Prolactina","isCorrect":false},
+        {"originalLabel":"D","text":"Oxitocina","isCorrect":false},
+        {"originalLabel":"E","text":"Hormona foliculoestimulante","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Gonadotropina corionica humana",
+      "explanation":"La hCG es producida inicialmente por el trofoblasto y constituye la base de las pruebas bioquimicas de embarazo.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q163","number":163,
+      "stem":"Cual es la principal funcion de la progesterona durante las primeras etapas del embarazo?",
+      "options":[
+        {"originalLabel":"A","text":"Favorecer el mantenimiento del endometrio","isCorrect":true},
+        {"originalLabel":"B","text":"Inducir contracciones uterinas","isCorrect":false},
+        {"originalLabel":"C","text":"Estimular directamente la eyeccion de leche","isCorrect":false},
+        {"originalLabel":"D","text":"Producir ovulaciones sucesivas","isCorrect":false},
+        {"originalLabel":"E","text":"Aumentar la secrecion de FSH","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Favorecer el mantenimiento del endometrio",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["El fragmento del PDF trae el enunciado 163 mezclado con opciones de otra pregunta; no confirmo opciones ni Comentario. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q164","number":164,
+      "stem":"Que hormona es responsable principalmente de la eyeccion de la leche materna?",
+      "options":[
+        {"originalLabel":"A","text":"Prolactina","isCorrect":false},
+        {"originalLabel":"B","text":"Oxitocina","isCorrect":true},
+        {"originalLabel":"C","text":"Estrogeno","isCorrect":false},
+        {"originalLabel":"D","text":"Progesterona","isCorrect":false},
+        {"originalLabel":"E","text":"FSH","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Oxitocina",
+      "explanation":"La oxitocina contrae las celulas mioepiteliales mamarias y produce el reflejo de eyeccion de leche.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q165","number":165,
+      "stem":"Que hormona estimula principalmente la produccion de leche materna?",
+      "options":[
+        {"originalLabel":"A","text":"Prolactina","isCorrect":true},
+        {"originalLabel":"B","text":"Oxitocina","isCorrect":false},
+        {"originalLabel":"C","text":"LH","isCorrect":false},
+        {"originalLabel":"D","text":"FSH","isCorrect":false},
+        {"originalLabel":"E","text":"ADH","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Prolactina",
+      "explanation":"La prolactina estimula la sintesis de leche, mientras la oxitocina participa principalmente en su eyeccion.",
+      "valid":true,"criticalIssues":[],"revisionIssues":[]
+    },
+    {
+      "id":"pdf_q166","number":166,
+      "stem":"Cual es la presentacion fetal mas frecuente al termino del embarazo?",
+      "options":[
+        {"originalLabel":"A","text":"Cefalica","isCorrect":true},
+        {"originalLabel":"B","text":"Podalica","isCorrect":false},
+        {"originalLabel":"C","text":"Transversa","isCorrect":false},
+        {"originalLabel":"D","text":"De hombro","isCorrect":false},
+        {"originalLabel":"E","text":"Compuesta","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Cefalica",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["El fragmento del PDF corta las opciones y no trae Comentario. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q167","number":167,
+      "stem":"El primer periodo del trabajo de parto se extiende desde:",
+      "options":[
+        {"originalLabel":"A","text":"El inicio del trabajo de parto hasta la dilatacion cervical completa","isCorrect":true},
+        {"originalLabel":"B","text":"La dilatacion completa hasta el nacimiento","isCorrect":false},
+        {"originalLabel":"C","text":"El nacimiento hasta la expulsion placentaria","isCorrect":false},
+        {"originalLabel":"D","text":"La expulsion placentaria hasta las primeras 24 horas","isCorrect":false},
+        {"originalLabel":"E","text":"La ruptura de membranas hasta la concepcion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"El inicio del trabajo de parto hasta la dilatacion cervical completa",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q168","number":168,
+      "stem":"El segundo periodo del trabajo de parto comprende:",
+      "options":[
+        {"originalLabel":"A","text":"Desde el inicio de las contracciones hasta 5 cm","isCorrect":false},
+        {"originalLabel":"B","text":"Desde la dilatacion cervical completa hasta el nacimiento","isCorrect":true},
+        {"originalLabel":"C","text":"Desde el nacimiento hasta la salida de la placenta","isCorrect":false},
+        {"originalLabel":"D","text":"Las primeras 24 horas del puerperio","isCorrect":false},
+        {"originalLabel":"E","text":"Desde la fecundacion hasta la implantacion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"B","officialAnswerText":"Desde la dilatacion cervical completa hasta el nacimiento",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q169","number":169,
+      "stem":"El tercer periodo del trabajo de parto comprende:",
+      "options":[
+        {"originalLabel":"A","text":"Desde el nacimiento hasta la expulsion de la placenta","isCorrect":true},
+        {"originalLabel":"B","text":"Desde las primeras contracciones hasta la dilatacion completa","isCorrect":false},
+        {"originalLabel":"C","text":"Desde la dilatacion completa hasta el nacimiento","isCorrect":false},
+        {"originalLabel":"D","text":"Todo el puerperio","isCorrect":false},
+        {"originalLabel":"E","text":"Desde la ruptura de membranas hasta la dilatacion completa","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Desde el nacimiento hasta la expulsion de la placenta",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q170","number":170,
+      "stem":"Una mujer presenta fiebre, dolor hipogastrico y loquios fetidos varios dias despues del parto. Cual es el diagnostico mas probable?",
+      "options":[
+        {"originalLabel":"A","text":"Endometritis puerperal","isCorrect":true},
+        {"originalLabel":"B","text":"Placenta previa","isCorrect":false},
+        {"originalLabel":"C","text":"Embarazo ectopico","isCorrect":false},
+        {"originalLabel":"D","text":"Preeclampsia exclusivamente","isCorrect":false},
+        {"originalLabel":"E","text":"Hiperemesis gravidica","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Endometritis puerperal",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q171","number":171,
+      "stem":"En la infeccion por VIH, cual es la principal celula diana del virus?",
+      "options":[
+        {"originalLabel":"A","text":"Linfocito T CD4","isCorrect":true},
+        {"originalLabel":"B","text":"Eritrocito","isCorrect":false},
+        {"originalLabel":"C","text":"Neutrofilo","isCorrect":false},
+        {"originalLabel":"D","text":"Plaqueta","isCorrect":false},
+        {"originalLabel":"E","text":"Eosinofilo","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Linfocito T CD4",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q172","number":172,
+      "stem":"Cual es el objetivo principal del tratamiento antirretroviral?",
+      "options":[
+        {"originalLabel":"A","text":"Mantener una carga viral indetectable o suprimida","isCorrect":true},
+        {"originalLabel":"B","text":"Aumentar la carga viral","isCorrect":false},
+        {"originalLabel":"C","text":"Eliminar los linfocitos CD4","isCorrect":false},
+        {"originalLabel":"D","text":"Producir leucopenia","isCorrect":false},
+        {"originalLabel":"E","text":"Suspender permanentemente la respuesta inmunitaria","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Mantener una carga viral indetectable o suprimida",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q173","number":173,
+      "stem":"Cual es el principal marcador utilizado para cuantificar la replicacion del VIH y evaluar la respuesta virologica al tratamiento?",
+      "options":[
+        {"originalLabel":"A","text":"Carga viral de VIH","isCorrect":true},
+        {"originalLabel":"B","text":"Hemoglobina","isCorrect":false},
+        {"originalLabel":"C","text":"PCR convencional inespecifica","isCorrect":false},
+        {"originalLabel":"D","text":"VSG","isCorrect":false},
+        {"originalLabel":"E","text":"Bilirrubina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Carga viral de VIH",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q174","number":174,
+      "stem":"Que parametro inmunologico se utiliza habitualmente para valorar el grado de inmunosupresion asociado al VIH?",
+      "options":[
+        {"originalLabel":"A","text":"Recuento de linfocitos CD4","isCorrect":true},
+        {"originalLabel":"B","text":"Recuento de eritrocitos","isCorrect":false},
+        {"originalLabel":"C","text":"Concentracion de albumina","isCorrect":false},
+        {"originalLabel":"D","text":"Recuento de eosinofilos","isCorrect":false},
+        {"originalLabel":"E","text":"Tiempo de protrombina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Recuento de linfocitos CD4",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q175","number":175,
+      "stem":"Una persona presenta una exposicion ocupacional significativa a sangre potencialmente infectada por VIH. Que medida debe considerarse con rapidez?",
+      "options":[
+        {"originalLabel":"A","text":"Profilaxis posexposicion","isCorrect":true},
+        {"originalLabel":"B","text":"Esperar sintomas","isCorrect":false},
+        {"originalLabel":"C","text":"Vacunacion contra VIH","isCorrect":false},
+        {"originalLabel":"D","text":"Administrar antibioticos exclusivamente","isCorrect":false},
+        {"originalLabel":"E","text":"No realizar ninguna evaluacion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Profilaxis posexposicion",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q176","number":176,
+      "stem":"Mycobacterium tuberculosis se transmite principalmente mediante:",
+      "options":[
+        {"originalLabel":"A","text":"Nucleos de gotitas respiratorias suspendidos en el aire","isCorrect":true},
+        {"originalLabel":"B","text":"Agua contaminada","isCorrect":false},
+        {"originalLabel":"C","text":"Picadura de mosquito","isCorrect":false},
+        {"originalLabel":"D","text":"Contacto cutaneo casual","isCorrect":false},
+        {"originalLabel":"E","text":"Transmision fecal oral","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Nucleos de gotitas respiratorias suspendidos en el aire",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q177","number":177,
+      "stem":"Cual es una de las localizaciones mas frecuentes de tuberculosis extrapulmonar?",
+      "options":[
+        {"originalLabel":"A","text":"Ganglios linfaticos","isCorrect":true},
+        {"originalLabel":"B","text":"Pancreas","isCorrect":false},
+        {"originalLabel":"C","text":"Tiroides","isCorrect":false},
+        {"originalLabel":"D","text":"Musculo esqueletico","isCorrect":false},
+        {"originalLabel":"E","text":"Cornea","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Ganglios linfaticos",
+      "explanation":"",
+      "valid":false,
+      "criticalIssues":["El generador previo confeso ajuste del enunciado ('principal sitio' -> 'una de las localizaciones mas frecuentes'). Verificar enunciado literal contra el papel antes de usar."],
+      "revisionIssues":[]
+    },
+    {
+      "id":"pdf_q178","number":178,
+      "stem":"Una persona tiene infeccion tuberculosa pero no presenta sintomas ni evidencia de enfermedad activa. Como se denomina esta condicion?",
+      "options":[
+        {"originalLabel":"A","text":"Infeccion tuberculosa latente","isCorrect":true},
+        {"originalLabel":"B","text":"Tuberculosis miliar","isCorrect":false},
+        {"originalLabel":"C","text":"Tuberculosis cavitaria","isCorrect":false},
+        {"originalLabel":"D","text":"Tuberculosis meningea","isCorrect":false},
+        {"originalLabel":"E","text":"Neumonia bacteriana","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Infeccion tuberculosa latente",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q179","number":179,
+      "stem":"Cual es una caracteristica microbiologica de Mycobacterium tuberculosis?",
+      "options":[
+        {"originalLabel":"A","text":"Bacilo acido alcohol resistente","isCorrect":true},
+        {"originalLabel":"B","text":"Coco grampositivo encapsulado","isCorrect":false},
+        {"originalLabel":"C","text":"Espiroqueta","isCorrect":false},
+        {"originalLabel":"D","text":"Hongo dimorfico","isCorrect":false},
+        {"originalLabel":"E","text":"Parasito intracelular protozoario","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Bacilo acido alcohol resistente",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q180","number":180,
+      "stem":"La tincion de Ziehl-Neelsen se utiliza principalmente para identificar:",
+      "options":[
+        {"originalLabel":"A","text":"Bacilos acido alcohol resistentes","isCorrect":true},
+        {"originalLabel":"B","text":"Espiroquetas","isCorrect":false},
+        {"originalLabel":"C","text":"Parasitos intestinales","isCorrect":false},
+        {"originalLabel":"D","text":"Hongos exclusivamente","isCorrect":false},
+        {"originalLabel":"E","text":"Virus respiratorios","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Bacilos acido alcohol resistentes",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q181","number":181,
+      "stem":"Una persona con tuberculosis pulmonar activa presenta tos frecuente. Cual es una medida importante de control ambiental?",
+      "options":[
+        {"originalLabel":"A","text":"Ventilacion adecuada de los espacios","isCorrect":true},
+        {"originalLabel":"B","text":"Mantener habitaciones completamente cerradas","isCorrect":false},
+        {"originalLabel":"C","text":"Evitar la entrada de luz","isCorrect":false},
+        {"originalLabel":"D","text":"Aumentar la humedad","isCorrect":false},
+        {"originalLabel":"E","text":"Compartir utensilios exclusivamente","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Ventilacion adecuada de los espacios",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q182","number":182,
+      "stem":"Cual de los siguientes medicamentos antituberculosos se asocia caracteristicamente con neuritis optica?",
+      "options":[
+        {"originalLabel":"A","text":"Etambutol","isCorrect":true},
+        {"originalLabel":"B","text":"Rifampicina","isCorrect":false},
+        {"originalLabel":"C","text":"Isoniazida","isCorrect":false},
+        {"originalLabel":"D","text":"Pirazinamida","isCorrect":false},
+        {"originalLabel":"E","text":"Amoxicilina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Etambutol",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q183","number":183,
+      "stem":"Cual de los siguientes medicamentos antituberculosos puede producir neuropatia periferica relacionada con deficiencia funcional de piridoxina?",
+      "options":[
+        {"originalLabel":"A","text":"Isoniazida","isCorrect":true},
+        {"originalLabel":"B","text":"Etambutol","isCorrect":false},
+        {"originalLabel":"C","text":"Rifampicina","isCorrect":false},
+        {"originalLabel":"D","text":"Pirazinamida","isCorrect":false},
+        {"originalLabel":"E","text":"Estreptomicina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Isoniazida",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q184","number":184,
+      "stem":"Cual de los siguientes medicamentos antituberculosos puede producir coloracion naranja rojiza de secreciones corporales?",
+      "options":[
+        {"originalLabel":"A","text":"Rifampicina","isCorrect":true},
+        {"originalLabel":"B","text":"Isoniazida","isCorrect":false},
+        {"originalLabel":"C","text":"Etambutol","isCorrect":false},
+        {"originalLabel":"D","text":"Pirazinamida","isCorrect":false},
+        {"originalLabel":"E","text":"Levofloxacino","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Rifampicina",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q185","number":185,
+      "stem":"La pirazinamida se asocia caracteristicamente con:",
+      "options":[
+        {"originalLabel":"A","text":"Hiperuricemia","isCorrect":true},
+        {"originalLabel":"B","text":"Hipoglucemia grave obligatoria","isCorrect":false},
+        {"originalLabel":"C","text":"Hipocalcemia","isCorrect":false},
+        {"originalLabel":"D","text":"Hipotiroidismo","isCorrect":false},
+        {"originalLabel":"E","text":"Neutropenia en todos los pacientes","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Hiperuricemia",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q186","number":186,
+      "stem":"Cual es uno de los marcadores de laboratorio mas utilizados para estimar la funcion renal en la practica clinica?",
+      "options":[
+        {"originalLabel":"A","text":"Creatinina serica y estimacion del filtrado glomerular","isCorrect":true},
+        {"originalLabel":"B","text":"Bilirrubina","isCorrect":false},
+        {"originalLabel":"C","text":"Amilasa","isCorrect":false},
+        {"originalLabel":"D","text":"Troponina","isCorrect":false},
+        {"originalLabel":"E","text":"Fosfatasa alcalina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Creatinina serica y estimacion del filtrado glomerular",
+      "explanation":"",
+      "valid":false,
+      "criticalIssues":["El generador previo confeso ajuste del enunciado sobre creatinina/FVG. Verificar enunciado literal contra el papel antes de usar."],
+      "revisionIssues":[]
+    },
+    {
+      "id":"pdf_q187","number":187,
+      "stem":"La enfermedad renal cronica se define por alteraciones estructurales o funcionales renales persistentes durante al menos:",
+      "options":[
+        {"originalLabel":"A","text":"24 horas","isCorrect":false},
+        {"originalLabel":"B","text":"7 dias","isCorrect":false},
+        {"originalLabel":"C","text":"1 mes","isCorrect":false},
+        {"originalLabel":"D","text":"3 meses","isCorrect":true},
+        {"originalLabel":"E","text":"12 meses obligatoriamente","isCorrect":false}
+      ],
+      "officialAnswerLetter":"D","officialAnswerText":"3 meses",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q188","number":188,
+      "stem":"Cual es uno de los principales factores de riesgo para enfermedad renal cronica?",
+      "options":[
+        {"originalLabel":"A","text":"Diabetes mellitus","isCorrect":true},
+        {"originalLabel":"B","text":"Miopia","isCorrect":false},
+        {"originalLabel":"C","text":"Rinitis alergica","isCorrect":false},
+        {"originalLabel":"D","text":"Otitis externa","isCorrect":false},
+        {"originalLabel":"E","text":"Dermatitis de contacto","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Diabetes mellitus",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q189","number":189,
+      "stem":"Que hallazgo constituye un marcador de dano renal aunque el filtrado glomerular se encuentre inicialmente conservado?",
+      "options":[
+        {"originalLabel":"A","text":"Albuminuria persistente","isCorrect":true},
+        {"originalLabel":"B","text":"Hiperglucemia transitoria","isCorrect":false},
+        {"originalLabel":"C","text":"Fiebre","isCorrect":false},
+        {"originalLabel":"D","text":"Leucocitosis","isCorrect":false},
+        {"originalLabel":"E","text":"Hiperbilirrubinemia","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Albuminuria persistente",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q190","number":190,
+      "stem":"Un paciente con enfermedad renal cronica desarrolla anemia normocitica normocromica. Cual es el mecanismo principal?",
+      "options":[
+        {"originalLabel":"A","text":"Disminucion de produccion renal de eritropoyetina","isCorrect":true},
+        {"originalLabel":"B","text":"Aumento de produccion de eritropoyetina","isCorrect":false},
+        {"originalLabel":"C","text":"Deficiencia obligatoria de vitamina C","isCorrect":false},
+        {"originalLabel":"D","text":"Hipersecrecion de insulina","isCorrect":false},
+        {"originalLabel":"E","text":"Exceso de folato","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Disminucion de produccion renal de eritropoyetina",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q191","number":191,
+      "stem":"Cual es una alteracion mineral frecuente en la enfermedad renal cronica avanzada?",
+      "options":[
+        {"originalLabel":"A","text":"Hiperfosfatemia","isCorrect":true},
+        {"originalLabel":"B","text":"Hipofosfatemia obligatoria","isCorrect":false},
+        {"originalLabel":"C","text":"Hipercalcemia obligatoria","isCorrect":false},
+        {"originalLabel":"D","text":"Hipernatremia obligatoria","isCorrect":false},
+        {"originalLabel":"E","text":"Hipermagnesemia inexistente","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Hiperfosfatemia",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q192","number":192,
+      "stem":"La activacion renal de la vitamina D ocurre principalmente mediante:",
+      "options":[
+        {"originalLabel":"A","text":"1 alfa hidroxilacion","isCorrect":true},
+        {"originalLabel":"B","text":"25 hidroxilacion exclusivamente","isCorrect":false},
+        {"originalLabel":"C","text":"Glucuronidacion","isCorrect":false},
+        {"originalLabel":"D","text":"Acetilacion","isCorrect":false},
+        {"originalLabel":"E","text":"Metilacion","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"1 alfa hidroxilacion",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q193","number":193,
+      "stem":"En la enfermedad renal cronica avanzada, la disminucion de calcitriol contribuye a:",
+      "options":[
+        {"originalLabel":"A","text":"Hiperparatiroidismo secundario","isCorrect":true},
+        {"originalLabel":"B","text":"Hipoparatiroidismo primario","isCorrect":false},
+        {"originalLabel":"C","text":"Hipertiroidismo","isCorrect":false},
+        {"originalLabel":"D","text":"Sindrome de Cushing","isCorrect":false},
+        {"originalLabel":"E","text":"Hiperaldosteronismo","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Hiperparatiroidismo secundario",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q194","number":194,
+      "stem":"Cual es la unidad funcional del rinon?",
+      "options":[
+        {"originalLabel":"A","text":"Nefrona","isCorrect":true},
+        {"originalLabel":"B","text":"Hepatocito","isCorrect":false},
+        {"originalLabel":"C","text":"Alveolo","isCorrect":false},
+        {"originalLabel":"D","text":"Osteona","isCorrect":false},
+        {"originalLabel":"E","text":"Sarcomero","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Nefrona",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q195","number":195,
+      "stem":"En que segmento de la nefrona se reabsorbe la mayor proporcion del sodio y agua filtrados?",
+      "options":[
+        {"originalLabel":"A","text":"Tubulo proximal","isCorrect":true},
+        {"originalLabel":"B","text":"Conducto colector","isCorrect":false},
+        {"originalLabel":"C","text":"Asa ascendente fina","isCorrect":false},
+        {"originalLabel":"D","text":"Capsula de Bowman","isCorrect":false},
+        {"originalLabel":"E","text":"Ureter","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Tubulo proximal",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q196","number":196,
+      "stem":"Que segmento de la nefrona es impermeable al agua y participa en la dilucion del liquido tubular?",
+      "options":[
+        {"originalLabel":"A","text":"Rama ascendente gruesa del asa de Henle","isCorrect":true},
+        {"originalLabel":"B","text":"Rama descendente delgada","isCorrect":false},
+        {"originalLabel":"C","text":"Tubulo proximal exclusivamente","isCorrect":false},
+        {"originalLabel":"D","text":"Capsula de Bowman","isCorrect":false},
+        {"originalLabel":"E","text":"Ureter","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Rama ascendente gruesa del asa de Henle",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q197","number":197,
+      "stem":"La aldosterona aumenta principalmente:",
+      "options":[
+        {"originalLabel":"A","text":"Reabsorcion de sodio y secrecion de potasio","isCorrect":true},
+        {"originalLabel":"B","text":"Excrecion de sodio y retencion de potasio","isCorrect":false},
+        {"originalLabel":"C","text":"Excrecion de agua libre sin sodio","isCorrect":false},
+        {"originalLabel":"D","text":"Reabsorcion de glucosa intestinal","isCorrect":false},
+        {"originalLabel":"E","text":"Produccion de eritropoyetina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Reabsorcion de sodio y secrecion de potasio",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q198","number":198,
+      "stem":"Que enzima renal inicia el sistema renina angiotensina aldosterona?",
+      "options":[
+        {"originalLabel":"A","text":"Renina","isCorrect":true},
+        {"originalLabel":"B","text":"Amilasa","isCorrect":false},
+        {"originalLabel":"C","text":"Lipasa","isCorrect":false},
+        {"originalLabel":"D","text":"Pepsina","isCorrect":false},
+        {"originalLabel":"E","text":"Tripsina","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Renina",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q199","number":199,
+      "stem":"La angiotensina II produce principalmente:",
+      "options":[
+        {"originalLabel":"A","text":"Vasoconstriccion y estimulacion de aldosterona","isCorrect":true},
+        {"originalLabel":"B","text":"Vasodilatacion generalizada","isCorrect":false},
+        {"originalLabel":"C","text":"Disminucion de aldosterona","isCorrect":false},
+        {"originalLabel":"D","text":"Bloqueo de la sed","isCorrect":false},
+        {"originalLabel":"E","text":"Disminucion de ADH","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Vasoconstriccion y estimulacion de aldosterona",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    },
+    {
+      "id":"pdf_q200","number":200,
+      "stem":"Que estructura renal detecta cambios en la concentracion tubular de NaCl y participa en la retroalimentacion tubuloglomerular?",
+      "options":[
+        {"originalLabel":"A","text":"Macula densa","isCorrect":true},
+        {"originalLabel":"B","text":"Podocito","isCorrect":false},
+        {"originalLabel":"C","text":"Capsula renal","isCorrect":false},
+        {"originalLabel":"D","text":"Pelvis renal","isCorrect":false},
+        {"originalLabel":"E","text":"Ureter","isCorrect":false}
+      ],
+      "officialAnswerLetter":"A","officialAnswerText":"Macula densa",
+      "explanation":"",
+      "valid":true,"criticalIssues":[],"revisionIssues":["No confirmada contra el fragmento del PDF disponible. Verificar contra el papel."]
+    }
+  ]
+}
