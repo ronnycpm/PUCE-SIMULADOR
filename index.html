@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+  />
+  <title>Simulador Méritos y Oposición PUCE</title>
+  <meta
+    name="description"
+    content="Simulador de examen de Méritos y Oposición PUCE optimizado para iPad."
+  />
+
+  <meta name="theme-color" content="#2563eb" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0b1020" media="(prefers-color-scheme: dark)" />
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Simulador PUCE" />
+  <meta name="format-detection" content="telephone=no" />
+
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="logo">M<span>O</span></div>
+        <div class="brand-text">
+          <h1>Simulador Méritos y Oposición</h1>
+          <p class="subtitle">PUCE · optimizado para iPad</p>
+        </div>
+      </div>
+
+      <div class="top-actions">
+        <button id="btnSync" class="btn primary">Actualizar banco</button>
+        <button id="btnStats" class="btn">Estadísticas</button>
+      </div>
+    </div>
+
+    <div class="topbar-status">
+      <span id="syncStatus">Inicializando...</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- INICIAR SIMULADOR -->
+    <section id="setupSection" class="app-section card">
+      <div class="section-head">
+        <span class="eyebrow">Inicio</span>
+        <h2>Iniciar simulador</h2>
+        <p>
+          Selecciona cuántas preguntas deseas responder. Las preguntas y
+          alternativas se mezclan automáticamente.
+        </p>
+      </div>
+
+      <div class="summary-grid">
+        <div class="summary-box">
+          <span class="summary-label">Preguntas en el banco</span>
+          <strong id="bankTotal">0</strong>
+        </div>
+        <div class="summary-box success">
+          <span class="summary-label">Válidas para examen</span>
+          <strong id="bankValid">0</strong>
+        </div>
+        <div class="summary-box warning">
+          <span class="summary-label">Requieren revisión</span>
+          <strong id="bankReview">0</strong>
+        </div>
+      </div>
+
+      <div id="noBankMessage" class="message hidden"></div>
+
+      <div class="form-row">
+        <label for="examCount">Número de preguntas</label>
+        <select id="examCount">
+          <option value="10">10</option>
+          <option value="25">25</option>
+          <option value="50">50</option>
+          <option value="100" selected>100</option>
+        </select>
+      </div>
+
+      <div class="actions-row">
+        <button id="btnStartExam" class="btn primary">Iniciar examen</button>
+        <button id="btnStartPractice" class="btn">Modo práctica</button>
+      </div>
+    </section>
+
+    <!-- EXAMEN -->
+    <section id="examSection" class="app-section card hidden">
+      <div class="exam-header">
+        <h2 id="examCounter">Pregunta 1 de 100</h2>
+        <div id="examTimer" class="timer">00:00</div>
+      </div>
+
+      <div id="questionStem" class="question-stem"></div>
+      <div id="optionsContainer" class="options-container"></div>
+
+      <div class="exam-navigation">
+        <button id="btnPrev" class="btn">Regresar</button>
+        <button id="btnNext" class="btn">Avanzar</button>
+        <button id="btnFinalize" class="btn danger">Finalizar examen</button>
+      </div>
+
+      <div class="nav-panel-wrap">
+        <h3>Navegación rápida</h3>
+        <div id="navPanel" class="nav-panel"></div>
+      </div>
+    </section>
+
+    <!-- RESULTADOS -->
+    <section id="resultsSection" class="app-section card hidden">
+      <div class="section-head">
+        <span class="eyebrow">Resultado</span>
+        <h2>Resultado del examen</h2>
+      </div>
+
+      <div class="result-hero">
+        <div class="score-big" id="scoreValue">0/100</div>
+        <div class="percent-big" id="percentValue">0%</div>
+        <div class="classification" id="classificationValue">--</div>
+      </div>
+
+      <div class="summary-grid">
+        <div class="summary-box success">
+          <span class="summary-label">Correctas</span>
+          <strong id="correctValue">0</strong>
+        </div>
+        <div class="summary-box danger">
+          <span class="summary-label">Incorrectas</span>
+          <strong id="incorrectValue">0</strong>
+        </div>
+        <div class="summary-box muted">
+          <span class="summary-label">Sin responder</span>
+          <strong id="unansweredValue">0</strong>
+        </div>
+      </div>
+
+      <div class="actions-row">
+        <label for="filterSelect">Filtro:</label>
+        <select id="filterSelect">
+          <option value="all">Todas</option>
+          <option value="correct">Correctas</option>
+          <option value="incorrect">Incorrectas</option>
+          <option value="unanswered">Sin responder</option>
+        </select>
+
+        <button id="btnReviewIncorrect" class="btn warning">
+          Revisar solo incorrectas
+        </button>
+        <button id="btnNewExam" class="btn primary">
+          Nuevo examen de 100 preguntas
+        </button>
+        <button id="btnBackHome" class="btn">Volver al inicio</button>
+      </div>
+
+      <div id="feedbackContainer" class="feedback-container"></div>
+    </section>
+
+    <!-- MODO PRÁCTICA -->
+    <section id="practiceSection" class="app-section card hidden">
+      <div class="section-head">
+        <span class="eyebrow">Práctica</span>
+        <h2>Modo práctica</h2>
+        <p>Aquí ves la corrección inmediata y la explicación, si existe.</p>
+      </div>
+
+      <div class="exam-header">
+        <h3 id="practiceCounter">Pregunta 1</h3>
+      </div>
+
+      <div id="practiceStem" class="question-stem"></div>
+      <div id="practiceOptions" class="options-container"></div>
+
+      <div class="actions-row">
+        <button id="btnCheckPractice" class="btn primary">
+          Comprobar respuesta
+        </button>
+        <button id="btnNextPractice" class="btn">Siguiente pregunta</button>
+        <button id="btnExitPractice" class="btn">Salir</button>
+      </div>
+
+      <div id="practiceResult" class="practice-result"></div>
+      <div id="practiceExplanation" class="practice-explanation"></div>
+    </section>
+
+    <!-- ESTADÍSTICAS -->
+    <section id="statsSection" class="app-section card hidden">
+      <div class="section-head">
+        <span class="eyebrow">Progreso</span>
+        <h2>Estadísticas</h2>
+        <p>Datos guardados localmente en el dispositivo.</p>
+      </div>
+
+      <div class="summary-grid">
+        <div class="summary-box">
+          <span class="summary-label">Exámenes realizados</span>
+          <strong id="statExams">0</strong>
+        </div>
+        <div class="summary-box">
+          <span class="summary-label">Promedio</span>
+          <strong id="statAverage">0%</strong>
+        </div>
+        <div class="summary-box success">
+          <span class="summary-label">Mejor puntuación</span>
+          <strong id="statBest">0%</strong>
+        </div>
+        <div class="summary-box success">
+          <span class="summary-label">Correctas</span>
+          <strong id="statCorrect">0</strong>
+        </div>
+        <div class="summary-box danger">
+          <span class="summary-label">Incorrectas</span>
+          <strong id="statIncorrect">0</strong>
+        </div>
+        <div class="summary-box muted">
+          <span class="summary-label">Sin responder</span>
+          <strong id="statUnanswered">0</strong>
+        </div>
+        <div class="summary-box">
+          <span class="summary-label">Porcentaje de aciertos</span>
+          <strong id="statAccuracy">0%</strong>
+        </div>
+      </div>
+
+      <h3>Preguntas falladas con mayor frecuencia</h3>
+      <div class="table-wrap">
+        <table class="stats-table">
+          <thead>
+            <tr>
+              <th>Pregunta</th>
+              <th>Veces preguntada</th>
+              <th>Incorrectas</th>
+              <th>% error</th>
+            </tr>
+          </thead>
+          <tbody id="mostFailedBody"></tbody>
+        </table>
+      </div>
+
+      <div class="actions-row">
+        <button id="btnClearStats" class="btn danger">Borrar estadísticas</button>
+        <button id="btnCloseStats" class="btn">Cerrar</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Simulador privado para estudio · Méritos y Oposición PUCE</p>
+  </footer>
+
+  <!-- MODAL CONFIRMACIÓN FINALIZAR EXAMEN -->
+  <div id="modalConfirm" class="modal hidden">
+    <div class="modal-content card">
+      <h3>¿Estás seguro de que deseas finalizar el examen?</h3>
+      <p>Preguntas respondidas: <strong id="confirmAnswered">0</strong></p>
+      <p>Preguntas sin responder: <strong id="confirmUnanswered">0</strong></p>
+
+      <div class="actions-row">
+        <button id="btnCancelConfirm" class="btn">Cancelar</button>
+        <button id="btnConfirmFinalize" class="btn danger">Finalizar</button>
+      </div>
+    </div>
+  </div>
+
+  <script defer src="database.js"></script>
+  <script defer src="app.js"></script>
+</body>
+</html>
